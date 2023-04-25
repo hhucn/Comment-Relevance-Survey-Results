@@ -317,3 +317,5 @@ Temporary Items
 SurveyResults
 /evaluation/.~lock.*
 *.bst
+
+__pycache__/
