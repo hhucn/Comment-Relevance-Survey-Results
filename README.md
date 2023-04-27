@@ -13,7 +13,7 @@ in the folder `evaluation/SurveyResults` while all anonymized survey results can
 same folder.
 
 ## Results
-<img src="Results.png" width=100%, height= 120% /> 
+<img src="Results.png" width=100%, height= 100% /> 
 
 Here, we see the Clopper-Pearson confidence intervals for expected answer of the three questions for each hypothesis for H<sub>0</sub> ``expected answer is not the most frequent answer``. The blue dot highlights the p-value for the complete hypothesis.
 
