@@ -12,6 +12,14 @@ All questions that have been asked can be found in `codebook_project.csv`
 in the folder `evaluation/SurveyResults` while all anonymized survey results can be found in `survey_results.csv` in the
 same folder.
 
+## Result Figure
+
+<object data="Results.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="http://yoursite.com/the.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="http://yoursite.com/the.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
+
 ## Demographic Information
 We consider here only participants who answered at least 4 of 6 control questions correctly.
 
