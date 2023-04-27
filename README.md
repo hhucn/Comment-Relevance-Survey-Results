@@ -12,9 +12,11 @@ All questions that have been asked can be found in `codebook_project.csv`
 in the folder `evaluation/SurveyResults` while all anonymized survey results can be found in `survey_results.csv` in the
 same folder.
 
-## Result Figure
+## Results
+<img src="Results.png" width=50%, height= 120% /> 
 
-![](Results.png)
+Here, we see the Clopper-Pearson confidence intervals for expected answer of the three questions for each hypothesis for H<sub>0</sub> ``expected answer is not the most frequent answer``. The blue dot highlights the p-value for the complete hypothesis.
+
 
 ## Demographic Information
 We consider here only participants who answered at least 4 of 6 control questions correctly.
