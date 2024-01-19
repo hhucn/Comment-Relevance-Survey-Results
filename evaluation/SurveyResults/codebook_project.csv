@@ -1,0 +1,2159 @@
+Relevance Model
+
+Projekt-ID	935652
+URL der Umfrage	https://ww2.unipark.de/uc/mauve_Heinrich-Heine-Universit__/15da/
+Datum	20.03.2023 14:03:11
+
+1 Seite: System (PGID 6189723)
+
+Benutzerdefinierte Variable ( - Typ 931)
+c_0001	c_0001	varchar	Benutzerdefinierte Variable
+
+
+
+3 Seite: Relevance Explanation  (PGID 6302316)
+
+
+4.1.1.1 Seite: H1: Chia Seeds Pro (PGID 6197635)
+
+Is Alice’s comment relevant?    (q_11377365 - Typ 111)
+v_362	v_362	int	Is Alice comment relevant?
+		1	Alice’s comment is relevant.
+		2	Alice’s comment is not relevant.
+		3	This cannot be assessed.
+
+
+Is Bob’s comment relevant?    (q_11377367 - Typ 111)
+v_363	v_363	int	Is Bob’s comment relevant?
+		1	Bob’s comment is relevant.
+		2	Bob’s comment is not relevant.
+		3	This cannot be assessed.
+
+
+Is Charlie’s comment relevant?    (q_11377369 - Typ 111)
+v_364	v_364	int	Is Charlie’s comment relevant?
+		1	Charlie’s comment is relevant.
+		2	Charlie’s comment is not relevant.
+		3	This cannot be assessed.
+
+
+
+4.1.1.2 Seite: H1: Chia Seeds Contra (PGID 6248085)
+
+Is Alice’s comment relevant?    (q_11381089 - Typ 111)
+v_395	v_395	int	Is Alice comment relevant?
+		1	Alice’s comment is relevant.
+		2	Alice’s comment is not relevant.
+		3	This cannot be assessed.
+
+
+Is Bob’s comment relevant?    (q_11381090 - Typ 111)
+v_396	v_396	int	Is Bob’s comment relevant?
+		1	Bob’s comment is relevant.
+		2	Bob’s comment is not relevant.
+		3	This cannot be assessed.
+
+
+Is Charlie’s comment relevant?    (q_11381091 - Typ 111)
+v_397	v_397	int	Is Charlie’s comment relevant?
+		1	Charlie’s comment is relevant.
+		2	Charlie’s comment is not relevant.
+		3	This cannot be assessed.
+
+
+
+4.1.2.1 Seite: H1: Boost Immune System Pro (PGID 6197639)
+
+Is Alice’s comment relevant?    (q_11381092 - Typ 111)
+v_398	v_398	int	Is Alice comment relevant?
+		1	Alice’s comment is relevant.
+		2	Alice’s comment is not relevant.
+		3	This cannot be assessed.
+
+
+Is Bob’s comment relevant?    (q_11381093 - Typ 111)
+v_399	v_399	int	Is Bob’s comment relevant?
+		1	Bob’s comment is relevant.
+		2	Bob’s comment is not relevant.
+		3	This cannot be assessed.
+
+
+Is Charlie’s comment relevant?    (q_11381094 - Typ 111)
+v_400	v_400	int	Is Charlie’s comment relevant?
+		1	Charlie’s comment is relevant.
+		2	Charlie’s comment is not relevant.
+		3	This cannot be assessed.
+
+
+
+4.1.2.2 Seite: H1: Boost Immune System Contra (PGID 6248105)
+
+Is Alice’s comment relevant?    (q_11381096 - Typ 111)
+v_402	v_402	int	Is Alice comment relevant?
+		1	Alice’s comment is relevant.
+		2	Alice’s comment is not relevant.
+		3	This cannot be assessed.
+
+
+Is Bob’s comment relevant?    (q_11381097 - Typ 111)
+v_403	v_403	int	Is Bob’s comment relevant?
+		1	Bob’s comment is relevant.
+		2	Bob’s comment is not relevant.
+		3	This cannot be assessed.
+
+
+Is Charlie’s comment relevant?    (q_11381098 - Typ 111)
+v_404	v_404	int	Is Charlie’s comment relevant?
+		1	Charlie’s comment is relevant.
+		2	Charlie’s comment is not relevant.
+		3	This cannot be assessed.
+
+
+
+4.1.3.1 Seite: H1: Solar Power Panels Pro (PGID 6197638)
+
+Is Alice’s comment relevant?    (q_11381099 - Typ 111)
+v_405	v_405	int	Is Alice comment relevant?
+		1	Alice’s comment is relevant.
+		2	Alice’s comment is not relevant.
+		3	This cannot be assessed.
+
+
+Is Bob’s comment relevant?    (q_11381100 - Typ 111)
+v_406	v_406	int	Is Bob’s comment relevant?
+		1	Bob’s comment is relevant.
+		2	Bob’s comment is not relevant.
+		3	This cannot be assessed.
+
+
+Is Charlie’s comment relevant?    (q_11381101 - Typ 111)
+v_407	v_407	int	Is Charlie’s comment relevant?
+		1	Charlie’s comment is relevant.
+		2	Charlie’s comment is not relevant.
+		3	This cannot be assessed.
+
+
+
+4.1.3.2 Seite: H1: Solar Power Panels Contra (PGID 6248169)
+
+Is Alice’s comment relevant?    (q_11381102 - Typ 111)
+v_408	v_408	int	Is Alice comment relevant?
+		1	Alice’s comment is relevant.
+		2	Alice’s comment is not relevant.
+		3	This cannot be assessed.
+
+
+Is Bob’s comment relevant?    (q_11381103 - Typ 111)
+v_409	v_409	int	Is Bob’s comment relevant?
+		1	Bob’s comment is relevant.
+		2	Bob’s comment is not relevant.
+		3	This cannot be assessed.
+
+
+Is Charlie’s comment relevant?    (q_11381104 - Typ 111)
+v_410	v_410	int	Is Charlie’s comment relevant?
+		1	Charlie’s comment is relevant.
+		2	Charlie’s comment is not relevant.
+		3	This cannot be assessed.
+
+
+
+4.2.1.1 Seite: H2: Chia Seeds Pro (PGID 6220526)
+
+Which comment is more relevant? Alice’s or Bob’s? (q_11326820 - Typ 111)
+v_113	v_113	int	Is Alice comment more relevant or Bob’s?
+		1	Alice‘s comment is more relevant than Bob’s.
+		2	Bob‘s comment is more relevant than Alice’s.
+		3	Both comments are equally relevant.
+
+
+Which comment is more relevant? Alice’s or Charlie’s? (q_11326821 - Typ 111)
+v_114	v_114	int	Is Alice comment more relevant or Charlie?
+		1	Alice‘s comment is more relevant than Charlie’s.
+		2	Charlie’s comment is more relevant than Alice’s.
+		3	Both comments are equally relevant.
+
+
+Which comment is more relevant? Bob’s or Charlie’s? (q_11326822 - Typ 111)
+v_115	v_115	int	Is Bob’s comment more relevant or Charlie’s?
+		1	Bob‘s comment is more relevant than Charlie’s.
+		2	Charlie’s comment is more relevant than Bob’s.
+		3	Both comments are equally relevant.
+
+
+
+4.2.1.2 Seite: H2: Chia Seeds Contra (PGID 6221139)
+
+Which comment is more relevant? Alice’s or Bob’s? (q_11326823 - Typ 111)
+v_116	v_116	int	Is Alice comment more relevant or Bob’s?
+		1	Alice‘s comment is more relevant than Bob’s.
+		2	Bob‘s comment is more relevant than Alice’s.
+		3	Both comments are equally relevant.
+
+
+Which comment is more relevant? Alice’s or Charlie’s? (q_11326824 - Typ 111)
+v_117	v_117	int	Is Alice comment more relevant or Charlie?
+		1	Alice‘s comment is more relevant than Charlie’s.
+		2	Charlie’s comment is more relevant than Alice’s.
+		3	Both comments are equally relevant.
+
+
+Which comment is more relevant? Bob’s or Charlie’s? (q_11326826 - Typ 111)
+v_118	v_118	int	Is Bob’s comment more relevant or Charlie’s?
+		1	Bob‘s comment is more relevant than Charlie’s.
+		2	Charlie’s comment is more relevant than Bob’s.
+		3	Both comments are equally relevant.
+
+
+
+4.2.2.1 Seite: H2: Boost Immune System Pro (PGID 6221142)
+
+Which comment is more relevant? Alice’s or Bob’s? (q_11326828 - Typ 111)
+v_119	v_119	int	Is Alice comment more relevant or Bob’s?
+		1	Alice‘s comment is more relevant than Bob’s.
+		2	Bob‘s comment is more relevant than Alice’s.
+		3	Both comments are equally relevant.
+
+
+Which comment is more relevant? Alice’s or Charlie’s? (q_11326829 - Typ 111)
+v_120	v_120	int	Is Alice comment more relevant or Charlie?
+		1	Alice‘s comment is more relevant than Charlie’s.
+		2	Charlie’s comment is more relevant than Alice’s.
+		3	Both comments are equally relevant.
+
+
+Which comment is more relevant? Bob’s or Charlie’s? (q_11326830 - Typ 111)
+v_121	v_121	int	Is Bob’s comment more relevant or Charlie’s?
+		1	Bob‘s comment is more relevant than Charlie’s.
+		2	Charlie’s comment is more relevant than Bob’s.
+		3	Both comments are equally relevant.
+
+
+
+4.2.2.2 Seite: H2: Boost Immune System Contra (PGID 6221189)
+
+Which comment is more relevant? Alice’s or Bob’s? (q_11326832 - Typ 111)
+v_122	v_122	int	Is Alice comment more relevant or Bob’s?
+		1	Alice‘s comment is more relevant than Bob’s.
+		2	Bob‘s comment is more relevant than Alice’s.
+		3	Both comments are equally relevant.
+
+
+Which comment is more relevant? Alice’s or Charlie’s? (q_11326833 - Typ 111)
+v_123	v_123	int	Is Alice comment more relevant or Charlie?
+		1	Alice‘s comment is more relevant than Charlie’s.
+		2	Charlie’s comment is more relevant than Alice’s.
+		3	Both comments are equally relevant.
+
+
+Which comment is more relevant? Bob’s or Charlie’s? (q_11326834 - Typ 111)
+v_124	v_124	int	Is Bob’s comment more relevant or Charlie’s?
+		1	Bob‘s comment is more relevant than Charlie’s.
+		2	Charlie’s comment is more relevant than Bob’s.
+		3	Both comments are equally relevant.
+
+
+
+4.2.3.1 Seite: H2: Solar Power Plants Pro (PGID 6221271)
+
+Which comment is more relevant? Alice’s or Bob’s? (q_11326835 - Typ 111)
+v_125	v_125	int	Is Alice comment more relevant or Bob’s?
+		1	Alice‘s comment is more relevant than Bob’s.
+		2	Bob‘s comment is more relevant than Alice’s.
+		3	Both comments are equally relevant.
+
+
+Which comment is more relevant? Alice’s or Charlie’s? (q_11326836 - Typ 111)
+v_126	v_126	int	Is Alice comment more relevant or Charlie?
+		1	Alice‘s comment is more relevant than Charlie’s.
+		2	Charlie’s comment is more relevant than Alice’s.
+		3	Both comments are equally relevant.
+
+
+Which comment is more relevant? Bob’s or Charlie’s? (q_11326837 - Typ 111)
+v_127	v_127	int	Is Bob’s comment more relevant or Charlie’s?
+		1	Bob‘s comment is more relevant than Charlie’s.
+		2	Charlie’s comment is more relevant than Bob’s.
+		3	Both comments are equally relevant.
+
+
+
+4.2.3.2 Seite: H2: Solar Power Panels Contra (PGID 6221272)
+
+Which comment is more relevant? Alice’s or Bob’s? (q_11326844 - Typ 111)
+v_130	v_130	int	Is Alice comment more relevant or Bob’s?
+		1	Alice‘s comment is more relevant than Bob’s.
+		2	Bob‘s comment is more relevant than Alice’s.
+		3	Both comments are equally relevant.
+
+
+Which comment is more relevant? Alice’s or Charlie’s? (q_11326840 - Typ 111)
+v_128	v_128	int	Is Alice comment more relevant or Charlie?
+		1	Alice‘s comment is more relevant than Charlie’s.
+		2	Charlie’s comment is more relevant than Alice’s.
+		3	Both comments are equally relevant.
+
+
+Which comment is more relevant? Bob’s or Charlie’s? (q_11326841 - Typ 111)
+v_129	v_129	int	Is Bob’s comment more relevant or Charlie’s?
+		1	Bob‘s comment is more relevant than Charlie’s.
+		2	Charlie’s comment is more relevant than Bob’s.
+		3	Both comments are equally relevant.
+
+
+
+4.3.1.1 Seite: H3: Chia Seeds Pro (PGID 6198513)
+
+Which comment is more relevant? Alice’s or Bob’s? (q_11288426 - Typ 111)
+v_23	v_23	int	Is Alice comment more relevant or Bob’s?
+		1	Alice‘s comment is more relevant than Bob’s.
+		2	Bob’s comment is more relevant than Alice‘s.
+		3	Both comments are equally relevant.
+
+
+Which comment is more relevant? Alice’s or Charlie’s? (q_11290953 - Typ 111)
+v_24	v_24	int	Is Alice comment more relevant or Charlie?
+		1	Alice‘s comment is more relevant than Charlie’s.
+		2	Charlie‘s comment is more relevant than Alice’s.
+		3	Both comments are equally relevant.
+
+
+Which comment is more relevant? Bob’s or Charlie’s? (q_11290977 - Typ 111)
+v_25	v_25	int	Is Bob’s comment more relevant or Charlie’s?
+		1	Bob‘s comment is more relevant than Charlie’s
+		2	Charlie‘s comment is more relevant than Bob’s.
+		3	Both comments are equally relevant.
+
+
+
+4.3.1.2 Seite: H3: Chia Seeds Contra (PGID 6200069)
+
+Which comment is more relevant? Alice’s or Bob’s? (q_11292294 - Typ 111)
+v_26	v_26	int	Is Alice comment more relevant or Bob’s?
+		1	Alice‘s comment is more relevant than Bob’s.
+		2	Bob’s comment is more relevant than Alice‘s.
+		3	Both comments are equally relevant.
+
+
+Which comment is more relevant? Alice’s or Charlie’s? (q_11292296 - Typ 111)
+v_27	v_27	int	Is Alice comment more relevant or Charlie?
+		1	Alice‘s comment is more relevant than Charlie’s.
+		2	Charlie‘s comment is more relevant than Alice’s.
+		3	Both comments are equally relevant.
+
+
+Which comment is more relevant? Bob’s or Charlie’s? (q_11292297 - Typ 111)
+v_28	v_28	int	Is Bob’s comment more relevant or Charlie’s?
+		1	Bob‘s comment is more relevant than Charlie’s
+		2	Charlie‘s comment is more relevant than Bob’s.
+		3	Both comments are equally relevant.
+
+
+
+4.3.2.1 Seite: H3: Boost Immune System Pro (PGID 6201374)
+
+Which comment is more relevant? Alice’s or Bob’s? (q_11292758 - Typ 111)
+v_29	v_29	int	Is Alice comment more relevant or Bob’s?
+		1	Alice‘s comment is more relevant than Bob’s.
+		2	Bob’s comment is more relevant than Alice‘s.
+		3	Both comments are equally relevant.
+
+
+Which comment is more relevant? Alice’s or Charlie’s? (q_11292760 - Typ 111)
+v_30	v_30	int	Is Alice comment more relevant or Charlie?
+		1	Alice‘s comment is more relevant than Charlie’s.
+		2	Charlie‘s comment is more relevant than Alice’s.
+		3	Both comments are equally relevant.
+
+
+Which comment is more relevant? Bob’s or Charlie’s? (q_11292761 - Typ 111)
+v_31	v_31	int	Is Bob’s comment more relevant or Charlie’s?
+		1	Bob‘s comment is more relevant than Charlie’s
+		2	Charlie‘s comment is more relevant than Bob’s.
+		3	Both comments are equally relevant.
+
+
+
+4.3.2.2 Seite: H3: Boost Immune System Contra (PGID 6201680)
+
+Which comment is more relevant? Alice’s or Bob’s? (q_11292929 - Typ 111)
+v_32	v_32	int	Is Alice comment more relevant or Bob’s?
+		1	Alice‘s comment is more relevant than Bob’s.
+		2	Bob’s comment is more relevant than Alice‘s.
+		3	Both comments are equally relevant.
+
+
+Which comment is more relevant? Alice’s or Charlie’s? (q_11292939 - Typ 111)
+v_33	v_33	int	Is Alice comment more relevant or Charlie?
+		1	Alice‘s comment is more relevant than Charlie’s.
+		2	Charlie‘s comment is more relevant than Alice’s.
+		3	Both comments are equally relevant.
+
+
+Which comment is more relevant? Bob’s or Charlie’s? (q_11292940 - Typ 111)
+v_34	v_34	int	Is Bob’s comment more relevant or Charlie’s?
+		1	Bob‘s comment is more relevant than Charlie’s
+		2	Charlie‘s comment is more relevant than Bob’s.
+		3	Both comments are equally relevant.
+
+
+
+4.3.3.1 Seite: H3: Solar Power Plants Pro (PGID 6201871)
+
+Which comment is more relevant? Alice’s or Bob’s? (q_11293025 - Typ 111)
+v_35	v_35	int	Is Alice comment more relevant or Bob’s?
+		1	Alice‘s comment is more relevant than Bob’s.
+		2	Bob’s comment is more relevant than Alice‘s.
+		3	Both comments are equally relevant.
+
+
+Which comment is more relevant? Alice’s or Charlie’s? (q_11293028 - Typ 111)
+v_36	v_36	int	Is Alice comment more relevant or Charlie?
+		1	Alice‘s comment is more relevant than Charlie’s.
+		2	Charlie‘s comment is more relevant than Alice’s.
+		3	Both comments are equally relevant.
+
+
+Which comment is more relevant? Bob’s or Charlie’s? (q_11293030 - Typ 111)
+v_37	v_37	int	Is Bob’s comment more relevant or Charlie’s?
+		1	Bob‘s comment is more relevant than Charlie’s
+		2	Charlie‘s comment is more relevant than Bob’s.
+		3	Both comments are equally relevant.
+
+
+
+4.3.3.2 Seite: H3: Solar Power Plants Contra (PGID 6201872)
+
+Which comment is more relevant? Alice’s or Bob’s? (q_11293053 - Typ 111)
+v_38	v_38	int	Is Alice comment more relevant or Bob’s?
+		1	Alice‘s comment is more relevant than Bob’s.
+		2	Bob’s comment is more relevant than Alice‘s.
+		3	Both comments are equally relevant.
+
+
+Which comment is more relevant? Alice’s or Charlie’s? (q_11293055 - Typ 111)
+v_39	v_39	int	Is Alice comment more relevant or Charlie?
+		1	Alice‘s comment is more relevant than Charlie’s.
+		2	Charlie‘s comment is more relevant than Alice’s.
+		3	Both comments are equally relevant.
+
+
+Which comment is more relevant? Bob’s or Charlie’s? (q_11293059 - Typ 111)
+v_40	v_40	int	Is Bob’s comment more relevant or Charlie’s?
+		1	Bob‘s comment is more relevant than Charlie’s
+		2	Charlie‘s comment is more relevant than Bob’s.
+		3	Both comments are equally relevant.
+
+
+
+4.4.1.1 Seite: H4: Chia Seeds Pro (PGID 6208943)
+
+Which comment is more relevant? Alice’s or Bob’s? (q_11326847 - Typ 111)
+v_132	v_132	int	Is Alice comment more relevant or Bob’s?
+		1	Alice‘s comment is more relevant than Bob’s.
+		2	Bob‘s comment is more relevant than Alice’s.
+		3	Both comments are equally relevant.
+
+
+Which comment is more relevant? Alice’s or Charlie’s? (q_11326846 - Typ 111)
+v_131	v_131	int	Is Alice comment more relevant or Charlie?
+		1	Alice‘s comment is more relevant than Charlie’s.
+		2	Charlie‘s comment is more relevant than Alice’s.
+		3	Both comments are equally relevant.
+
+
+Which comment is more relevant? Bob’s or Charlie’s? (q_11326848 - Typ 111)
+v_133	v_133	int	Is Bob’s comment more relevant or Charlie’s?
+		1	Bob‘s comment is more relevant than Charlie’s.
+		2	Charlie‘s comment is more relevant than Bob’s.
+		3	Both comments are equally relevant.
+
+
+
+4.4.1.2 Seite: H4: Chia Seeds Contra (PGID 6208972)
+
+Which comment is more relevant? Alice’s or Bob’s? (q_11326851 - Typ 111)
+v_135	v_135	int	Is Alice comment more relevant or Bob’s?
+		1	Alice‘s comment is more relevant than Bob’s.
+		2	Bob‘s comment is more relevant than Alice’s.
+		3	Both comments are equally relevant.
+
+
+Which comment is more relevant? Alice’s or Charlie’s? (q_11326850 - Typ 111)
+v_134	v_134	int	Is Alice comment more relevant or Charlie?
+		1	Alice‘s comment is more relevant than Charlie’s.
+		2	Charlie‘s comment is more relevant than Alice’s.
+		3	Both comments are equally relevant.
+
+
+Which comment is more relevant? Bob’s or Charlie’s? (q_11326852 - Typ 111)
+v_136	v_136	int	Is Bob’s comment more relevant or Charlie’s?
+		1	Bob‘s comment is more relevant than Charlie’s.
+		2	Charlie‘s comment is more relevant than Bob’s.
+		3	Both comments are equally relevant.
+
+
+
+4.4.2.1 Seite: H4: Boost Immune System Pro (PGID 6209079)
+
+Which comment is more relevant? Alice’s or Bob’s? (q_11326854 - Typ 111)
+v_138	v_138	int	Is Alice comment more relevant or Bob’s?
+		1	Alice‘s comment is more relevant than Bob’s.
+		2	Bob‘s comment is more relevant than Alice’s.
+		3	Both comments are equally relevant.
+
+
+Which comment is more relevant? Alice’s or Charlie’s? (q_11326853 - Typ 111)
+v_137	v_137	int	Is Alice comment more relevant or Charlie?
+		1	Alice‘s comment is more relevant than Charlie’s.
+		2	Charlie‘s comment is more relevant than Alice’s.
+		3	Both comments are equally relevant.
+
+
+Which comment is more relevant? Bob’s or Charlie’s? (q_11326855 - Typ 111)
+v_139	v_139	int	Is Bob’s comment more relevant or Charlie’s?
+		1	Bob‘s comment is more relevant than Charlie’s.
+		2	Charlie‘s comment is more relevant than Bob’s.
+		3	Both comments are equally relevant.
+
+
+
+4.4.2.2 Seite: H4: Boost Immune System Contra (PGID 6209249)
+
+Which comment is more relevant? Alice’s or Bob’s? (q_11326858 - Typ 111)
+v_141	v_141	int	Is Alice comment more relevant or Bob’s?
+		1	Alice‘s comment is more relevant than Bob’s.
+		2	Bob‘s comment is more relevant than Alice’s.
+		3	Both comments are equally relevant.
+
+
+Which comment is more relevant? Alice’s or Charlie’s? (q_11326857 - Typ 111)
+v_140	v_140	int	Is Alice comment more relevant or Charlie?
+		1	Alice‘s comment is more relevant than Charlie’s.
+		2	Charlie‘s comment is more relevant than Alice’s.
+		3	Both comments are equally relevant.
+
+
+Which comment is more relevant? Bob’s or Charlie’s? (q_11326859 - Typ 111)
+v_142	v_142	int	Is Bob’s comment more relevant or Charlie’s?
+		1	Bob‘s comment is more relevant than Charlie’s.
+		2	Charlie‘s comment is more relevant than Bob’s.
+		3	Both comments are equally relevant.
+
+
+
+4.4.3.1 Seite: H4: Solar Power Plants Pro (PGID 6209250)
+
+Which comment is more relevant? Alice’s or Bob’s? (q_11326861 - Typ 111)
+v_144	v_144	int	Is Alice comment more relevant or Bob’s?
+		1	Alice‘s comment is more relevant than Bob’s.
+		2	Bob‘s comment is more relevant than Alice’s.
+		3	Both comments are equally relevant.
+
+
+Which comment is more relevant? Alice’s or Charlie’s? (q_11326860 - Typ 111)
+v_143	v_143	int	Is Alice comment more relevant or Charlie?
+		1	Alice‘s comment is more relevant than Charlie’s.
+		2	Charlie‘s comment is more relevant than Alice’s.
+		3	Both comments are equally relevant.
+
+
+Which comment is more relevant? Bob’s or Charlie’s? (q_11326862 - Typ 111)
+v_145	v_145	int	Is Bob’s comment more relevant or Charlie’s?
+		1	Bob‘s comment is more relevant than Charlie’s.
+		2	Charlie‘s comment is more relevant than Bob’s.
+		3	Both comments are equally relevant.
+
+
+
+4.4.3.2 Seite: H4: Solar Power Panels Contra (PGID 6209258)
+
+Which comment is more relevant? Alice’s or Bob’s? (q_11326864 - Typ 111)
+v_147	v_147	int	Is Alice comment more relevant or Bob’s?
+		1	Alice‘s comment is more relevant than Bob’s.
+		2	Bob‘s comment is more relevant than Alice’s.
+		3	Both comments are equally relevant.
+
+
+Which comment is more relevant? Alice’s or Charlie’s? (q_11326863 - Typ 111)
+v_146	v_146	int	Is Alice comment more relevant or Charlie?
+		1	Alice‘s comment is more relevant than Charlie’s.
+		2	Charlie‘s comment is more relevant than Alice’s.
+		3	Both comments are equally relevant.
+
+
+Which comment is more relevant? Bob’s or Charlie’s? (q_11326866 - Typ 111)
+v_148	v_148	int	Is Bob’s comment more relevant or Charlie’s?
+		1	Bob‘s comment is more relevant than Charlie’s.
+		2	Charlie‘s comment is more relevant than Bob’s.
+		3	Both comments are equally relevant.
+
+
+
+4.4.4.1 Seite: H4: Football Pro (PGID 6241407)
+
+Which comment is more relevant? Alice’s or Bob’s? (q_11362445 - Typ 111)
+v_276	v_276	int	Is Alice comment more relevant or Bob’s?
+		1	Alice‘s comment is more relevant than Bob’s.
+		2	Bob‘s comment is more relevant than Alice’s.
+		3	Both comments are equally relevant.
+
+
+Which comment is more relevant? Alice’s or Charlie’s? (q_11362450 - Typ 111)
+v_277	v_277	int	Is Alice comment more relevant or Charlie?
+		1	Alice‘s comment is more relevant than Charlie’s.
+		2	Charlie‘s comment is more relevant than Alice’s.
+		3	Both comments are equally relevant.
+
+
+Which comment is more relevant? Bob’s or Charlie’s? (q_11362452 - Typ 111)
+v_278	v_278	int	Is Bob’s comment more relevant or Charlie’s?
+		1	Bob‘s comment is more relevant than Charlie’s.
+		2	Charlie‘s comment is more relevant than Bob’s.
+		3	Both comments are equally relevant.
+
+
+
+4.4.4.2 Seite: H4: Football Contra (PGID 6241681)
+
+Which comment is more relevant? Alice’s or Bob’s? (q_11362836 - Typ 111)
+v_279	v_279	int	Is Alice comment more relevant or Bob’s?
+		1	Alice‘s comment is more relevant than Bob’s.
+		2	Bob‘s comment is more relevant than Alice’s.
+		3	Both comments are equally relevant.
+
+
+Which comment is more relevant? Alice’s or Charlie’s? (q_11362837 - Typ 111)
+v_280	v_280	int	Is Alice comment more relevant or Charlie?
+		1	Alice‘s comment is more relevant than Charlie’s.
+		2	Charlie‘s comment is more relevant than Alice’s.
+		3	Both comments are equally relevant.
+
+
+Which comment is more relevant? Bob’s or Charlie’s? (q_11362838 - Typ 111)
+v_281	v_281	int	Is Bob’s comment more relevant or Charlie’s?
+		1	Bob‘s comment is more relevant than Charlie’s.
+		2	Charlie‘s comment is more relevant than Bob’s.
+		3	Both comments are equally relevant.
+
+
+
+4.5.1.1 Seite: H5: Chia Seeds Pro (PGID 6209450)
+
+Which comment is more relevant? Alice’s or Bob’s? (q_11326868 - Typ 111)
+v_149	v_149	int	Is Alice comment more relevant or Bob’s?
+		1	Alice‘s comment is more relevant than Bob’s.
+		2	Bob‘s comment is more relevant than Alice’s.
+		3	Both comments are equally relevant.
+
+
+Which comment is more relevant? Alice’s or Charlie’s? (q_11326870 - Typ 111)
+v_150	v_150	int	Is Alice comment more relevant or Charlie?
+		1	Alice‘s comment is more relevant than Charlie’s.
+		2	Charlie‘s comment is more relevant than Alice’s.
+		3	Both comments are equally relevant.
+
+
+Which comment is more relevant? Bob’s or Charlie’s? (q_11326871 - Typ 111)
+v_151	v_151	int	Is Bob’s comment more relevant or Charlie’s?
+		1	Bob‘s comment is more relevant than Charlie’s.
+		2	Charlie‘s comment is more relevant than Bob’s.
+		3	Both comments are equally relevant.
+
+
+
+4.5.1.2 Seite: H5: Chia Seeds Contra (PGID 6209460)
+
+Which comment is more relevant? Alice’s or Bob’s? (q_11326872 - Typ 111)
+v_152	v_152	int	Is Alice comment more relevant or Bob’s?
+		1	Alice‘s comment is more relevant than Bob’s.
+		2	Bob‘s comment is more relevant than Alice’s.
+		3	Both comments are equally relevant.
+
+
+Which comment is more relevant? Alice’s or Charlie’s? (q_11326873 - Typ 111)
+v_153	v_153	int	Is Alice comment more relevant or Charlie?
+		1	Alice‘s comment is more relevant than Charlie’s.
+		2	Charlie‘s comment is more relevant than Alice’s.
+		3	Both comments are equally relevant.
+
+
+Which comment is more relevant? Bob’s or Charlie’s? (q_11326874 - Typ 111)
+v_154	v_154	int	Is Bob’s comment more relevant or Charlie’s?
+		1	Bob‘s comment is more relevant than Charlie’s.
+		2	Charlie‘s comment is more relevant than Bob’s.
+		3	Both comments are equally relevant.
+
+
+
+4.5.2.1 Seite: H5: Boost Immune System Pro (PGID 6209462)
+
+Which comment is more relevant? Alice’s or Bob’s? (q_11326875 - Typ 111)
+v_155	v_155	int	Is Alice comment more relevant or Bob’s?
+		1	Alice‘s comment is more relevant than Bob’s.
+		2	Bob‘s comment is more relevant than Alice’s.
+		3	Both comments are equally relevant.
+
+
+Which comment is more relevant? Alice’s or Charlie’s? (q_11326876 - Typ 111)
+v_156	v_156	int	Is Alice comment more relevant or Charlie?
+		1	Alice‘s comment is more relevant than Charlie’s.
+		2	Charlie‘s comment is more relevant than Alice’s.
+		3	Both comments are equally relevant.
+
+
+Which comment is more relevant? Bob’s or Charlie’s? (q_11326878 - Typ 111)
+v_157	v_157	int	Is Bob’s comment more relevant or Charlie’s?
+		1	Bob‘s comment is more relevant than Charlie’s.
+		2	Charlie‘s comment is more relevant than Bob’s.
+		3	Both comments are equally relevant.
+
+
+
+4.5.2.2 Seite: H5: Boost Immune System Contra (PGID 6209469)
+
+Which comment is more relevant? Alice’s or Bob’s? (q_11326879 - Typ 111)
+v_158	v_158	int	Is Alice comment more relevant or Bob’s?
+		1	Alice‘s comment is more relevant than Bob’s.
+		2	Bob‘s comment is more relevant than Alice’s.
+		3	Both comments are equally relevant.
+
+
+Which comment is more relevant? Alice’s or Charlie’s? (q_11326880 - Typ 111)
+v_159	v_159	int	Is Alice comment more relevant or Charlie?
+		1	Alice‘s comment is more relevant than Charlie’s.
+		2	Charlie‘s comment is more relevant than Alice’s.
+		3	Both comments are equally relevant.
+
+
+Which comment is more relevant? Bob’s or Charlie’s? (q_11326881 - Typ 111)
+v_160	v_160	int	Is Bob’s comment more relevant or Charlie’s?
+		1	Bob‘s comment is more relevant than Charlie’s.
+		2	Charlie‘s comment is more relevant than Bob’s.
+		3	Both comments are equally relevant.
+
+
+
+4.5.3.1 Seite: H5: Solar Power Panels Pro (PGID 6209475)
+
+Which comment is more relevant? Alice’s or Bob’s? (q_11326883 - Typ 111)
+v_161	v_161	int	Is Alice comment more relevant or Bob’s?
+		1	Alice‘s comment is more relevant than Bob’s.
+		2	Bob‘s comment is more relevant than Alice’s.
+		3	Both comments are equally relevant.
+
+
+Which comment is more relevant? Alice’s or Charlie’s? (q_11326884 - Typ 111)
+v_162	v_162	int	Is Alice comment more relevant or Charlie?
+		1	Alice‘s comment is more relevant than Charlie’s.
+		2	Charlie‘s comment is more relevant than Alice’s.
+		3	Both comments are equally relevant.
+
+
+Which comment is more relevant? Bob’s or Charlie’s? (q_11326885 - Typ 111)
+v_163	v_163	int	Is Bob’s comment more relevant or Charlie’s?
+		1	Bob‘s comment is more relevant than Charlie’s.
+		2	Charlie‘s comment is more relevant than Bob’s.
+		3	Both comments are equally relevant.
+
+
+
+4.5.3.2 Seite: H5: Solar Power Panels Contra (PGID 6209477)
+
+Which comment is more relevant? Alice’s or Bob’s? (q_11326887 - Typ 111)
+v_164	v_164	int	Is Alice comment more relevant or Bob’s?
+		1	Alice‘s comment is more relevant than Bob’s.
+		2	Bob‘s comment is more relevant than Alice’s.
+		3	Both comments are equally relevant.
+
+
+Which comment is more relevant? Alice’s or Charlie’s? (q_11326888 - Typ 111)
+v_165	v_165	int	Is Alice comment more relevant or Charlie?
+		1	Alice‘s comment is more relevant than Charlie’s.
+		2	Charlie‘s comment is more relevant than Alice’s.
+		3	Both comments are equally relevant.
+
+
+Which comment is more relevant? Bob’s or Charlie’s? (q_11326890 - Typ 111)
+v_166	v_166	int	Is Bob’s comment more relevant or Charlie’s?
+		1	Bob‘s comment is more relevant than Charlie’s.
+		2	Charlie‘s comment is more relevant than Bob’s.
+		3	Both comments are equally relevant.
+
+
+
+4.6.1.1 Seite: H6: Chia Seeds Pro (PGID 6209488)
+
+Which comment is more relevant? Alice’s or Bob’s? (q_11326891 - Typ 111)
+v_167	v_167	int	Is Alice comment more relevant or Bob’s?
+		1	Alice‘s comment is more relevant than Bob’s.
+		2	Bob‘s comment is more relevant than Alice’s.
+		3	Both comments are equally relevant.
+
+
+Which comment is more relevant? Alice’s or Charlie’s? (q_11326892 - Typ 111)
+v_168	v_168	int	Is Alice comment more relevant or Charlie?
+		1	Alice‘s comment is more relevant than Charlie’s.
+		2	Charlie‘s comment is more relevant than Alice’s.
+		3	Both comments are equally relevant.
+
+
+Which comment is more relevant? Bob’s or Charlie’s? (q_11326895 - Typ 111)
+v_170	v_170	int	Is Bob’s comment more relevant or Charlie’s?
+		1	Bob‘s comment is more relevant than Charlie’s.
+		2	Charlie‘s comment is more relevant than Bob’s.
+		3	Both comments are equally relevant.
+
+
+
+4.6.1.2 Seite: H6: Chia Seeds Contra (PGID 6209491)
+
+Which comment is more relevant? Alice’s or Bob’s? (q_11326896 - Typ 111)
+v_171	v_171	int	Is Alice comment more relevant or Bob’s?
+		1	Alice‘s comment is more relevant than Bob’s.
+		2	Bob‘s comment is more relevant than Alice’s.
+		3	Both comments are equally relevant.
+
+
+Which comment is more relevant? Alice’s or Charlie’s? (q_11326897 - Typ 111)
+v_172	v_172	int	Is Alice comment more relevant or Charlie?
+		1	Alice‘s comment is more relevant than Charlie’s.
+		2	Charlie‘s comment is more relevant than Alice’s.
+		3	Both comments are equally relevant.
+
+
+Which comment is more relevant? Bob’s or Charlie’s? (q_11326899 - Typ 111)
+v_173	v_173	int	Is Bob’s comment more relevant or Charlie’s?
+		1	Bob‘s comment is more relevant than Charlie’s.
+		2	Charlie‘s comment is more relevant than Bob’s.
+		3	Both comments are equally relevant.
+
+
+
+4.6.2.1 Seite: H6: Boost Immune System Pro (PGID 6209498)
+
+Which comment is more relevant? Alice’s or Bob’s? (q_11326900 - Typ 111)
+v_174	v_174	int	Is Alice comment more relevant or Bob’s?
+		1	Alice‘s comment is more relevant than Bob’s.
+		2	Bob‘s comment is more relevant than Alice’s.
+		3	Both comments are equally relevant.
+
+
+Which comment is more relevant? Alice’s or Charlie’s? (q_11326901 - Typ 111)
+v_175	v_175	int	Is Alice comment more relevant or Charlie?
+		1	Alice‘s comment is more relevant than Charlie’s.
+		2	Charlie‘s comment is more relevant than Alice’s.
+		3	Both comments are equally relevant.
+
+
+Which comment is more relevant? Bob’s or Charlie’s? (q_11326903 - Typ 111)
+v_176	v_176	int	Is Bob’s comment more relevant or Charlie’s?
+		1	Bob‘s comment is more relevant than Charlie’s.
+		2	Charlie‘s comment is more relevant than Bob’s.
+		3	Both comments are equally relevant.
+
+
+
+4.6.2.2 Seite: H6: Boost Immune System Contra (PGID 6209501)
+
+Which comment is more relevant? Alice’s or Bob’s? (q_11326911 - Typ 111)
+v_177	v_177	int	Is Alice comment more relevant or Bob’s?
+		1	Alice‘s comment is more relevant than Bob’s.
+		2	Bob‘s comment is more relevant than Alice’s.
+		3	Both comments are equally relevant.
+
+
+Which comment is more relevant? Alice’s or Charlie’s? (q_11326916 - Typ 111)
+v_178	v_178	int	Is Alice comment more relevant or Charlie?
+		1	Alice‘s comment is more relevant than Charlie’s.
+		2	Charlie‘s comment is more relevant than Alice’s.
+		3	Both comments are equally relevant.
+
+
+Which comment is more relevant? Bob’s or Charlie’s? (q_11326921 - Typ 111)
+v_179	v_179	int	Is Bob’s comment more relevant or Charlie’s?
+		1	Bob‘s comment is more relevant than Charlie’s.
+		2	Charlie‘s comment is more relevant than Bob’s.
+		3	Both comments are equally relevant.
+
+
+
+4.6.3.1 Seite: H6: Solar Power Panels Pro (PGID 6209504)
+
+Which comment is more relevant? Alice’s or Bob’s? (q_11326922 - Typ 111)
+v_180	v_180	int	Is Alice comment more relevant or Bob’s?
+		1	Alice‘s comment is more relevant than Bob’s.
+		2	Bob‘s comment is more relevant than Alice’s.
+		3	Both comments are equally relevant.
+
+
+Which comment is more relevant? Alice’s or Charlie’s? (q_11326923 - Typ 111)
+v_181	v_181	int	Is Alice comment more relevant or Charlie?
+		1	Alice‘s comment is more relevant than Charlie’s.
+		2	Charlie‘s comment is more relevant than Alice’s.
+		3	Both comments are equally relevant.
+
+
+Which comment is more relevant? Bob’s or Charlie’s? (q_11326924 - Typ 111)
+v_182	v_182	int	Is Bob’s comment more relevant or Charlie’s?
+		1	Bob‘s comment is more relevant than Charlie’s.
+		2	Charlie‘s comment is more relevant than Bob’s.
+		3	Both comments are equally relevant.
+
+
+
+4.6.3.2 Seite: H6: Solar Power Panels Contra (PGID 6209509)
+
+Which comment is more relevant? Alice’s or Bob’s? (q_11326925 - Typ 111)
+v_183	v_183	int	Is Alice comment more relevant or Bob’s?
+		1	Alice‘s comment is more relevant than Bob’s.
+		2	Bob‘s comment is more relevant than Alice’s.
+		3	Both comments are equally relevant.
+
+
+Which comment is more relevant? Alice’s or Charlie’s? (q_11326926 - Typ 111)
+v_184	v_184	int	Is Alice comment more relevant or Charlie?
+		1	Alice‘s comment is more relevant than Charlie’s.
+		2	Charlie‘s comment is more relevant than Alice’s.
+		3	Both comments are equally relevant.
+
+
+Which comment is more relevant? Bob’s or Charlie’s? (q_11326927 - Typ 111)
+v_185	v_185	int	Is Bob’s comment more relevant or Charlie’s?
+		1	Bob‘s comment is more relevant than Charlie’s.
+		2	Charlie‘s comment is more relevant than Bob’s.
+		3	Both comments are equally relevant.
+
+
+
+4.7.1.1 Seite: H7: Chia Seeds Pro (PGID 6211210)
+
+Which comment is more relevant? Alice’s or Bob’s? (q_11326929 - Typ 111)
+v_186	v_186	int	Is Alice comment more relevant or Bob’s?
+		1	Alice‘s comment is more relevant than Bob’s.
+		2	Bob‘s comment is more relevant than Alice’s.
+		3	Both comments are equally relevant.
+
+
+Which comment is more relevant? Alice’s or Charlie’s? (q_11326930 - Typ 111)
+v_187	v_187	int	Is Alice comment more relevant or Charlie?
+		1	Alice‘s comment is more relevant than Charlie’s.
+		2	Charlie‘s comment is more relevant than Alice’s.
+		3	Both comments are equally relevant.
+
+
+Which comment is more relevant? Bob’s or Charlie’s? (q_11326932 - Typ 111)
+v_188	v_188	int	Is Bob’s comment more relevant or Charlie’s?
+		1	Bob‘s comment is more relevant than Charlie’s.
+		2	Charlie‘s comment is more relevant than Bob’s.
+		3	Both comments are equally relevant.
+
+
+
+4.7.1.2 Seite: H7: Chia Seeds Contra (PGID 6211214)
+
+Which comment is more relevant? Alice’s or Bob’s? (q_11326933 - Typ 111)
+v_189	v_189	int	Is Alice comment more relevant or Bob’s?
+		1	Alice‘s comment is more relevant than Bob’s.
+		2	Bob‘s comment is more relevant than Alice’s.
+		3	Both comments are equally relevant.
+
+
+Which comment is more relevant? Alice’s or Charlie’s? (q_11326934 - Typ 111)
+v_190	v_190	int	Is Alice comment more relevant or Charlie?
+		1	Alice‘s comment is more relevant than Charlie’s.
+		2	Charlie‘s comment is more relevant than Alice’s.
+		3	Both comments are equally relevant.
+
+
+Which comment is more relevant? Bob’s or Charlie’s? (q_11326935 - Typ 111)
+v_191	v_191	int	Is Bob’s comment more relevant or Charlie’s?
+		1	Bob‘s comment is more relevant than Charlie’s.
+		2	Charlie‘s comment is more relevant than Bob’s.
+		3	Both comments are equally relevant.
+
+
+
+4.7.2.1 Seite: H7: Boost Immune System Pro (PGID 6211224)
+
+Which comment is more relevant? Alice’s or Bob’s? (q_11326936 - Typ 111)
+v_192	v_192	int	Is Alice comment more relevant or Bob’s?
+		1	Alice‘s comment is more relevant than Bob’s.
+		2	Bob‘s comment is more relevant than Alice’s.
+		3	Both comments are equally relevant.
+
+
+Which comment is more relevant? Alice’s or Charlie’s? (q_11326937 - Typ 111)
+v_193	v_193	int	Is Alice comment more relevant or Charlie?
+		1	Alice‘s comment is more relevant than Charlie’s.
+		2	Charlie‘s comment is more relevant than Alice’s.
+		3	Both comments are equally relevant.
+
+
+Which comment is more relevant? Bob’s or Charlie’s? (q_11326938 - Typ 111)
+v_194	v_194	int	Is Bob’s comment more relevant or Charlie’s?
+		1	Bob‘s comment is more relevant than Charlie’s.
+		2	Charlie‘s comment is more relevant than Bob’s.
+		3	Both comments are equally relevant.
+
+
+
+4.7.2.2 Seite: H7: Boost Immune System Contra (PGID 6211231)
+
+Which comment is more relevant? Alice’s or Bob’s? (q_11326939 - Typ 111)
+v_195	v_195	int	Is Alice comment more relevant or Bob’s?
+		1	Alice‘s comment is more relevant than Bob’s.
+		2	Bob‘s comment is more relevant than Alice’s.
+		3	Both comments are equally relevant.
+
+
+Which comment is more relevant? Alice’s or Charlie’s? (q_11326940 - Typ 111)
+v_196	v_196	int	Is Alice comment more relevant or Charlie?
+		1	Alice‘s comment is more relevant than Charlie’s.
+		2	Charlie‘s comment is more relevant than Alice’s.
+		3	Both comments are equally relevant.
+
+
+Which comment is more relevant? Bob’s or Charlie’s? (q_11326941 - Typ 111)
+v_197	v_197	int	Is Bob’s comment more relevant or Charlie’s?
+		1	Bob‘s comment is more relevant than Charlie’s.
+		2	Charlie‘s comment is more relevant than Bob’s.
+		3	Both comments are equally relevant.
+
+
+
+4.7.3.1 Seite: H7: Solar Power Panels Pro (PGID 6211264)
+
+Which comment is more relevant? Alice’s or Bob’s? (q_11326942 - Typ 111)
+v_198	v_198	int	Is Alice comment more relevant or Bob’s?
+		1	Alice‘s comment is more relevant than Bob’s.
+		2	Bob‘s comment is more relevant than Alice’s.
+		3	Both comments are equally relevant.
+
+
+Which comment is more relevant? Alice’s or Charlie’s? (q_11326943 - Typ 111)
+v_199	v_199	int	Is Alice comment more relevant or Charlie?
+		1	Alice‘s comment is more relevant than Charlie’s.
+		2	Charlie‘s comment is more relevant than Alice’s.
+		3	Both comments are equally relevant.
+
+
+Which comment is more relevant? Bob’s or Charlie’s? (q_11326944 - Typ 111)
+v_200	v_200	int	Is Bob’s comment more relevant or Charlie’s?
+		1	Bob‘s comment is more relevant than Charlie’s.
+		2	Charlie‘s comment is more relevant than Bob’s.
+		3	Both comments are equally relevant.
+
+
+
+4.7.3.2 Seite: H7: Solar Power Panels Contra (PGID 6211265)
+
+Which comment is more relevant? Alice’s or Bob’s? (q_11326945 - Typ 111)
+v_201	v_201	int	Is Alice comment more relevant or Bob’s?
+		1	Alice‘s comment is more relevant than Bob’s.
+		2	Bob‘s comment is more relevant than Alice’s.
+		3	Both comments are equally relevant.
+
+
+Which comment is more relevant? Alice’s or Charlie’s? (q_11326946 - Typ 111)
+v_202	v_202	int	Is Alice comment more relevant or Charlie?
+		1	Alice‘s comment is more relevant than Charlie’s.
+		2	Charlie‘s comment is more relevant than Alice’s.
+		3	Both comments are equally relevant.
+
+
+Which comment is more relevant? Bob’s or Charlie’s? (q_11326947 - Typ 111)
+v_203	v_203	int	Is Bob’s comment more relevant or Charlie’s?
+		1	Bob‘s comment is more relevant than Charlie’s.
+		2	Charlie‘s comment is more relevant than Bob’s.
+		3	Both comments are equally relevant.
+
+
+
+4.8.1.1 Seite: H8: Chia Seeds Pro (PGID 6242599)
+
+Which comment is more relevant? Alice’s or Bob’s? (q_11364733 - Typ 111)
+v_282	v_282	int	Is Alice comment more relevant or Bob’s?
+		1	Alice‘s comment is more relevant than Bob’s.
+		2	Bob‘s comment is more relevant than Alice’s.
+		3	Both comments are equally relevant.
+
+
+Which comment is more relevant? Alice’s or Charlie’s?    (q_11364736 - Typ 111)
+v_284	v_284	int	Is Alice comment more relevant or Charlie’s?
+		1	Alice‘s comment is more relevant than Charlie’s.
+		2	Charlie‘s comment is more relevant than Alice’s.
+		3	Both comments are equally relevant.
+
+
+Which comment is more relevant? Bob’s or Charlie’s?    (q_11364735 - Typ 111)
+v_283	v_283	int	Is Bob’s comment more relevant or Charlie?
+		1	Bob‘s comment is more relevant than Charlie’s.
+		2	Charlie‘s comment is more relevant than Bob’s.
+		3	Both comments are equally relevant.
+
+
+
+4.8.1.2 Seite: H8: Chia Seeds Contra (PGID 6242604)
+
+Which comment is more relevant? Alice’s or Bob’s? (q_11364765 - Typ 111)
+v_285	v_285	int	Is Alice comment more relevant or Bob’s?
+		1	Alice‘s comment is more relevant than Bob’s.
+		2	Bob‘s comment is more relevant than Alice’s.
+		3	Both comments are equally relevant.
+
+
+Which comment is more relevant? Alice’s or Charlie’s? (q_11364766 - Typ 111)
+v_286	v_286	int	Is Alice comment more relevant or Charlie?
+		1	Alice‘s comment is more relevant than Charlie’s.
+		2	Charlie‘s comment is more relevant than Alice’s.
+		3	Both comments are equally relevant.
+
+
+Which comment is more relevant? Bob’s or Charlie’s? (q_11364767 - Typ 111)
+v_287	v_287	int	Is Bob’s comment more relevant or Charlie’s?
+		1	Bob‘s comment is more relevant than Charlie’s.
+		2	Charlie‘s comment is more relevant than Bob’s.
+		3	Both comments are equally relevant.
+
+
+
+4.8.2.1 Seite: H8: Boost Immune System Pro (PGID 6242605)
+
+Which comment is more relevant? Alice’s or Bob’s? (q_11364768 - Typ 111)
+v_288	v_288	int	Is Alice comment more relevant or Bob’s?
+		1	Alice‘s comment is more relevant than Bob’s.
+		2	Bob‘s comment is more relevant than Alice’s.
+		3	Both comments are equally relevant.
+
+
+Which comment is more relevant? Alice’s or Charlie’s? (q_11364769 - Typ 111)
+v_289	v_289	int	Is Alice comment more relevant or Charlie?
+		1	Alice‘s comment is more relevant than Charlie’s.
+		2	Charlie‘s comment is more relevant than Alice’s.
+		3	Both comments are equally relevant.
+
+
+Which comment is more relevant? Bob’s or Charlie’s? (q_11364770 - Typ 111)
+v_290	v_290	int	Is Bob’s comment more relevant or Charlie’s?
+		1	Bob‘s comment is more relevant than Charlie’s.
+		2	Charlie‘s comment is more relevant than Bob’s.
+		3	Both comments are equally relevant.
+
+
+
+4.8.2.2 Seite: H8: Boost Immune System Contra (PGID 6242606)
+
+Which comment is more relevant? Alice’s or Bob’s? (q_11364772 - Typ 111)
+v_291	v_291	int	Is Alice comment more relevant or Bob’s?
+		1	Alice‘s comment is more relevant than Bob’s.
+		2	Bob‘s comment is more relevant than Alice’s.
+		3	Both comments are equally relevant.
+
+
+Which comment is more relevant? Alice’s or Charlie’s? (q_11364773 - Typ 111)
+v_292	v_292	int	Is Alice comment more relevant or Charlie?
+		1	Alice‘s comment is more relevant than Charlie’s.
+		2	Charlie‘s comment is more relevant than Alice’s.
+		3	Both comments are equally relevant.
+
+
+Which comment is more relevant? Bob’s or Charlie’s? (q_11364775 - Typ 111)
+v_294	v_294	int	Is Bob’s comment more relevant or Charlie’s?
+		1	Bob‘s comment is more relevant than Charlie’s.
+		2	Charlie‘s comment is more relevant than Bob’s.
+		3	Both comments are equally relevant.
+
+
+
+4.8.3.1 Seite: H8: Solar Power Panels Pro (PGID 6242607)
+
+Which comment is more relevant? Alice’s or Bob’s? (q_11364777 - Typ 111)
+v_295	v_295	int	Is Alice comment more relevant or Bob’s?
+		1	Alice‘s comment is more relevant than Bob’s.
+		2	Bob‘s comment is more relevant than Alice’s.
+		3	Both comments are equally relevant.
+
+
+Which comment is more relevant? Alice’s or Charlie’s? (q_11364782 - Typ 111)
+v_296	v_296	int	Is Alice comment more relevant or Charlie?
+		1	Alice‘s comment is more relevant than Charlie’s.
+		2	Charlie‘s comment is more relevant than Alice’s.
+		3	Both comments are equally relevant.
+
+
+Which comment is more relevant? Bob’s or Charlie’s? (q_11364789 - Typ 111)
+v_297	v_297	int	Is Bob’s comment more relevant or Charlie’s?
+		1	Bob‘s comment is more relevant than Charlie’s.
+		2	Charlie‘s comment is more relevant than Bob’s.
+		3	Both comments are equally relevant.
+
+
+
+4.8.3.2 Seite: H8: Solar Power Panels Contra (PGID 6242608)
+
+Which comment is more relevant? Alice’s or Bob’s? (q_11364792 - Typ 111)
+v_298	v_298	int	Is Alice comment more relevant or Bob’s?
+		1	Alice‘s comment is more relevant than Bob’s.
+		2	Bob‘s comment is more relevant than Alice’s.
+		3	Both comments are equally relevant.
+
+
+Which comment is more relevant? Alice’s or Charlie’s? (q_11364793 - Typ 111)
+v_299	v_299	int	Is Alice comment more relevant or Charlie?
+		1	Alice‘s comment is more relevant than Charlie’s.
+		2	Charlie‘s comment is more relevant than Alice’s.
+		3	Both comments are equally relevant.
+
+
+Which comment is more relevant? Bob’s or Charlie’s? (q_11364795 - Typ 111)
+v_300	v_300	int	Is Bob’s comment more relevant or Charlie’s?
+		1	Bob‘s comment is more relevant than Charlie’s.
+		2	Charlie‘s comment is more relevant than Bob’s.
+		3	Both comments are equally relevant.
+
+
+
+4.9.1.1 Seite: H9: Chia Seeds Pro (PGID 6211285)
+
+Which comment is more relevant? Alice’s or Bob’s? (q_11326949 - Typ 111)
+v_204	v_204	int	Is Alice comment more relevant or Bob’s?
+		1	Alice‘s comment is more relevant than Bob’s.
+		2	Bob‘s comment is more relevant than Alice’s.
+		3	Both comments are equally relevant.
+
+
+Which comment is more relevant? Alice’s or Charlie’s? (q_11326950 - Typ 111)
+v_205	v_205	int	Is Alice comment more relevant or Charlie?
+		1	Alice‘s comment is more relevant than Charlie’s.
+		2	Charlie‘s comment is more relevant than Alice’s.
+		3	Both comments are equally relevant.
+
+
+Which comment is more relevant? Bob’s or Charlie’s? (q_11326951 - Typ 111)
+v_206	v_206	int	Is Bob’s comment more relevant or Charlie’s?
+		1	Bob‘s comment is more relevant than Charlie’s.
+		2	Charlie‘s comment is more relevant than Bob’s.
+		3	Both comments are equally relevant.
+
+
+
+4.9.1.2 Seite: H9: Chia Seeds Contra (PGID 6211310)
+
+Which comment is more relevant? Alice’s or Bob’s? (q_11326952 - Typ 111)
+v_207	v_207	int	Is Alice comment more relevant or Bob’s?
+		1	Alice‘s comment is more relevant than Bob’s.
+		2	Bob‘s comment is more relevant than Alice’s.
+		3	Both comments are equally relevant.
+
+
+Which comment is more relevant? Alice’s or Charlie’s? (q_11326953 - Typ 111)
+v_208	v_208	int	Is Alice comment more relevant or Charlie?
+		1	Alice‘s comment is more relevant than Charlie’s.
+		2	Charlie‘s comment is more relevant than Alice’s.
+		3	Both comments are equally relevant.
+
+
+Which comment is more relevant? Bob’s or Charlie’s? (q_11326954 - Typ 111)
+v_209	v_209	int	Is Bob’s comment more relevant or Charlie’s?
+		1	Bob‘s comment is more relevant than Charlie’s.
+		2	Charlie‘s comment is more relevant than Bob’s.
+		3	Both comments are equally relevant.
+
+
+
+4.9.2.1 Seite: H9: Boost Immune System Pro (PGID 6211313)
+
+Which comment is more relevant? Alice’s or Bob’s? (q_11326955 - Typ 111)
+v_210	v_210	int	Is Alice comment more relevant or Bob’s?
+		1	Alice‘s comment is more relevant than Bob’s.
+		2	Bob‘s comment is more relevant than Alice’s.
+		3	Both comments are equally relevant.
+
+
+Which comment is more relevant? Alice’s or Charlie’s? (q_11326957 - Typ 111)
+v_211	v_211	int	Is Alice comment more relevant or Charlie?
+		1	Alice‘s comment is more relevant than Charlie’s.
+		2	Charlie‘s comment is more relevant than Alice’s.
+		3	Both comments are equally relevant.
+
+
+Which comment is more relevant? Bob’s or Charlie’s? (q_11326958 - Typ 111)
+v_212	v_212	int	Is Bob’s comment more relevant or Charlie’s?
+		1	Bob‘s comment is more relevant than Charlie’s.
+		2	Charlie‘s comment is more relevant than Bob’s.
+		3	Both comments are equally relevant.
+
+
+
+4.9.2.2 Seite: H9: Boost Immune System Contra (PGID 6211316)
+
+Which comment is more relevant? Alice’s or Bob’s? (q_11326967 - Typ 111)
+v_213	v_213	int	Is Alice comment more relevant or Bob’s?
+		1	Alice‘s comment is more relevant than Bob’s.
+		2	Bob‘s comment is more relevant than Alice’s.
+		3	Both comments are equally relevant.
+
+
+Which comment is more relevant? Alice’s or Charlie’s? (q_11326968 - Typ 111)
+v_214	v_214	int	Is Alice comment more relevant or Charlie?
+		1	Alice‘s comment is more relevant than Charlie’s.
+		2	Charlie‘s comment is more relevant than Alice’s.
+		3	Both comments are equally relevant.
+
+
+Which comment is more relevant? Bob’s or Charlie’s? (q_11326970 - Typ 111)
+v_215	v_215	int	Is Bob’s comment more relevant or Charlie’s?
+		1	Bob‘s comment is more relevant than Charlie’s.
+		2	Charlie‘s comment is more relevant than Bob’s.
+		3	Both comments are equally relevant.
+
+
+
+4.9.3.1 Seite: H9: Solar Power Panels Pro (PGID 6211319)
+
+Which comment is more relevant? Alice’s or Bob’s? (q_11326971 - Typ 111)
+v_216	v_216	int	Is Alice comment more relevant or Bob’s?
+		1	Alice‘s comment is more relevant than Bob’s.
+		2	Bob‘s comment is more relevant than Alice’s.
+		3	Both comments are equally relevant.
+
+
+Which comment is more relevant? Alice’s or Charlie’s? (q_11326973 - Typ 111)
+v_217	v_217	int	Is Alice comment more relevant or Charlie?
+		1	Alice‘s comment is more relevant than Charlie’s.
+		2	Charlie‘s comment is more relevant than Alice’s.
+		3	Both comments are equally relevant.
+
+
+Which comment is more relevant? Bob’s or Charlie’s? (q_11326974 - Typ 111)
+v_218	v_218	int	Is Bob’s comment more relevant or Charlie’s?
+		1	Bob‘s comment is more relevant than Charlie’s.
+		2	Charlie‘s comment is more relevant than Bob’s.
+		3	Both comments are equally relevant.
+
+
+
+4.9.3.2 Seite: H9: Solar Power Panels Contra (PGID 6211323)
+
+Which comment is more relevant? Alice’s or Bob’s? (q_11326975 - Typ 111)
+v_219	v_219	int	Is Alice comment more relevant or Bob’s?
+		1	Alice‘s comment is more relevant than Bob’s.
+		2	Bob‘s comment is more relevant than Alice’s.
+		3	Both comments are equally relevant.
+
+
+Which comment is more relevant? Alice’s or Charlie’s? (q_11326985 - Typ 111)
+v_220	v_220	int	Is Alice comment more relevant or Charlie?
+		1	Alice‘s comment is more relevant than Charlie’s.
+		2	Charlie‘s comment is more relevant than Alice’s.
+		3	Both comments are equally relevant.
+
+
+Which comment is more relevant? Bob’s or Charlie’s? (q_11327004 - Typ 111)
+v_221	v_221	int	Is Bob’s comment more relevant or Charlie’s?
+		1	Bob‘s comment is more relevant than Charlie’s.
+		2	Charlie‘s comment is more relevant than Bob’s.
+		3	Both comments are equally relevant.
+
+
+
+4.10.1.1 Seite: H10: Chia Seeds Pro (PGID 6211440)
+
+Which comment is more relevant? Alice’s or Bob’s? (q_11327035 - Typ 111)
+v_222	v_222	int	Is Alice comment more relevant or Bob’s?
+		1	Alice‘s comment is more relevant than Bob’s.
+		2	Bob‘s comment is more relevant than Alice’s.
+		3	Both comments are equally relevant.
+
+
+Which comment is more relevant? Alice’s or Charlie’s? (q_11327036 - Typ 111)
+v_223	v_223	int	Is Alice comment more relevant or Charlie?
+		1	Alice‘s comment is more relevant than Charlie’s.
+		2	Charlie‘s comment is more relevant than Alice’s.
+		3	Both comments are equally relevant.
+
+
+Which comment is more relevant? Bob’s or Charlie’s? (q_11327037 - Typ 111)
+v_224	v_224	int	Is Bob’s comment more relevant or Charlie’s?
+		1	Bob‘s comment is more relevant than Charlie’s.
+		2	Charlie‘s comment is more relevant than Bob’s.
+		3	Both comments are equally relevant.
+
+
+
+4.10.1.2 Seite: H10: Chia Seeds Contra (PGID 6211497)
+
+Which comment is more relevant? Alice’s or Bob’s? (q_11327038 - Typ 111)
+v_225	v_225	int	Is Alice comment more relevant or Bob’s?
+		1	Alice‘s comment is more relevant than Bob’s.
+		2	Bob‘s comment is more relevant than Alice’s.
+		3	Both comments are equally relevant.
+
+
+Which comment is more relevant? Alice’s or Charlie’s? (q_11327039 - Typ 111)
+v_226	v_226	int	Is Alice comment more relevant or Charlie?
+		1	Alice‘s comment is more relevant than Charlie’s.
+		2	Charlie‘s comment is more relevant than Alice’s.
+		3	Both comments are equally relevant.
+
+
+Which comment is more relevant? Bob’s or Charlie’s? (q_11327041 - Typ 111)
+v_227	v_227	int	Is Bob’s comment more relevant or Charlie’s?
+		1	Bob‘s comment is more relevant than Charlie’s.
+		2	Charlie‘s comment is more relevant than Bob’s.
+		3	Both comments are equally relevant.
+
+
+
+4.10.2.1 Seite: H10: Boost Immune System Pro (PGID 6211527)
+
+Which comment is more relevant? Alice’s or Bob’s? (q_11327043 - Typ 111)
+v_228	v_228	int	Is Alice comment more relevant or Bob’s?
+		1	Alice‘s comment is more relevant than Bob’s.
+		2	Bob‘s comment is more relevant than Alice’s.
+		3	Both comments are equally relevant.
+
+
+Which comment is more relevant? Alice’s or Charlie’s? (q_11327044 - Typ 111)
+v_229	v_229	int	Is Alice comment more relevant or Charlie?
+		1	Alice‘s comment is more relevant than Charlie’s.
+		2	Charlie‘s comment is more relevant than Alice’s.
+		3	Both comments are equally relevant.
+
+
+Which comment is more relevant? Bob’s or Charlie’s? (q_11327045 - Typ 111)
+v_230	v_230	int	Is Bob’s comment more relevant or Charlie’s?
+		1	Bob‘s comment is more relevant than Charlie’s.
+		2	Charlie‘s comment is more relevant than Bob’s.
+		3	Both comments are equally relevant.
+
+
+
+4.10.2.2 Seite: H10: Boost Immune System Contra (PGID 6211537)
+
+Which comment is more relevant? Alice’s or Bob’s? (q_11327052 - Typ 111)
+v_231	v_231	int	Is Alice comment more relevant or Bob’s?
+		1	Alice‘s comment is more relevant than Bob’s.
+		2	Bob‘s comment is more relevant than Alice’s.
+		3	Both comments are equally relevant.
+
+
+Which comment is more relevant? Alice’s or Charlie’s? (q_11327053 - Typ 111)
+v_232	v_232	int	Is Alice comment more relevant or Charlie?
+		1	Alice‘s comment is more relevant than Charlie’s.
+		2	Charlie‘s comment is more relevant than Alice’s.
+		3	Both comments are equally relevant.
+
+
+Which comment is more relevant? Bob’s or Charlie’s? (q_11327054 - Typ 111)
+v_233	v_233	int	Is Bob’s comment more relevant or Charlie’s?
+		1	Bob‘s comment is more relevant than Charlie’s.
+		2	Charlie‘s comment is more relevant than Bob’s.
+		3	Both comments are equally relevant.
+
+
+
+4.10.3.1 Seite: H10: Solar Power Panels Pro (PGID 6211585)
+
+Which comment is more relevant? Alice’s or Bob’s? (q_11327055 - Typ 111)
+v_234	v_234	int	Is Alice comment more relevant or Bob’s?
+		1	Alice‘s comment is more relevant than Bob’s.
+		2	Bob‘s comment is more relevant than Alice’s.
+		3	Both comments are equally relevant.
+
+
+Which comment is more relevant? Alice’s or Charlie’s? (q_11327056 - Typ 111)
+v_235	v_235	int	Is Alice comment more relevant or Charlie?
+		1	Alice‘s comment is more relevant than Charlie’s.
+		2	Charlie‘s comment is more relevant than Alice’s.
+		3	Both comments are equally relevant.
+
+
+Which comment is more relevant? Bob’s or Charlie’s? (q_11327057 - Typ 111)
+v_236	v_236	int	Is Bob’s comment more relevant or Charlie’s?
+		1	Bob‘s comment is more relevant than Charlie’s.
+		2	Charlie‘s comment is more relevant than Bob’s.
+		3	Both comments are equally relevant.
+
+
+
+4.10.3.2 Seite: H10: Solar Power Panels Contra (PGID 6211675)
+
+Which comment is more relevant? Alice’s or Bob’s? (q_11327058 - Typ 111)
+v_237	v_237	int	Is Alice comment more relevant or Bob’s?
+		1	Alice‘s comment is more relevant than Bob’s.
+		2	Bob‘s comment is more relevant than Alice’s.
+		3	Both comments are equally relevant.
+
+
+Which comment is more relevant? Alice’s or Charlie’s? (q_11327059 - Typ 111)
+v_238	v_238	int	Is Alice comment more relevant or Charlie?
+		1	Alice‘s comment is more relevant than Charlie’s.
+		2	Charlie‘s comment is more relevant than Alice’s.
+		3	Both comments are equally relevant.
+
+
+Which comment is more relevant? Bob’s or Charlie’s? (q_11327066 - Typ 111)
+v_239	v_239	int	Is Bob’s comment more relevant or Charlie’s?
+		1	Bob‘s comment is more relevant than Charlie’s.
+		2	Charlie‘s comment is more relevant than Bob’s.
+		3	Both comments are equally relevant.
+
+
+
+4.11.1.1 Seite: H11: Chia Seeds Pro (PGID 6213282)
+
+Which comment is more relevant? Alice’s or Bob’s? (q_11327067 - Typ 111)
+v_240	v_240	int	Is Alice comment more relevant or Bob’s?
+		1	Alice‘s comment is more relevant than Bob’s.
+		2	Bob‘s comment is more relevant than Alice’s.
+		3	Both comments are equally relevant.
+
+
+Which comment is more relevant? Alice’s or Charlie’s? (q_11327068 - Typ 111)
+v_241	v_241	int	Is Alice comment more relevant or Charlie?
+		1	Alice‘s comment is more relevant than Charlie’s.
+		2	Charlie‘s comment is more relevant than Alice’s.
+		3	Both comments are equally relevant.
+
+
+Which comment is more relevant? Bob’s or Charlie’s? (q_11327069 - Typ 111)
+v_242	v_242	int	Is Bob’s comment more relevant or Charlie’s?
+		1	Bob‘s comment is more relevant than Charlie’s.
+		2	Charlie‘s comment is more relevant than Bob’s.
+		3	Both comments are equally relevant.
+
+
+
+4.11.1.2 Seite: H11: Chia Seeds Contra (PGID 6213290)
+
+Which comment is more relevant? Alice’s or Bob’s? (q_11327070 - Typ 111)
+v_243	v_243	int	Is Alice comment more relevant or Bob’s?
+		1	Alice‘s comment is more relevant than Bob’s.
+		2	Bob‘s comment is more relevant than Alice’s.
+		3	Both comments are equally relevant.
+
+
+Which comment is more relevant? Alice’s or Charlie’s? (q_11327071 - Typ 111)
+v_244	v_244	int	Is Alice comment more relevant or Charlie?
+		1	Alice‘s comment is more relevant than Charlie’s.
+		2	Charlie‘s comment is more relevant than Alice’s.
+		3	Both comments are equally relevant.
+
+
+Which comment is more relevant? Bob’s or Charlie’s? (q_11327072 - Typ 111)
+v_245	v_245	int	Is Bob’s comment more relevant or Charlie’s?
+		1	Bob‘s comment is more relevant than Charlie’s.
+		2	Charlie‘s comment is more relevant than Bob’s.
+		3	Both comments are equally relevant.
+
+
+
+4.11.2.1 Seite: H11: Boost Immune System Pro (PGID 6213301)
+
+Which comment is more relevant? Alice’s or Bob’s? (q_11327073 - Typ 111)
+v_246	v_246	int	Is Alice comment more relevant or Bob’s?
+		1	Alice‘s comment is more relevant than Bob’s.
+		2	Bob‘s comment is more relevant than Alice’s.
+		3	Both comments are equally relevant.
+
+
+Which comment is more relevant? Alice’s or Charlie’s? (q_11327074 - Typ 111)
+v_247	v_247	int	Is Alice comment more relevant or Charlie?
+		1	Alice‘s comment is more relevant than Charlie’s.
+		2	Charlie‘s comment is more relevant than Alice’s.
+		3	Both comments are equally relevant.
+
+
+Which comment is more relevant? Bob’s or Charlie’s? (q_11327076 - Typ 111)
+v_248	v_248	int	Is Bob’s comment more relevant or Charlie’s?
+		1	Bob‘s comment is more relevant than Charlie’s.
+		2	Charlie‘s comment is more relevant than Bob’s.
+		3	Both comments are equally relevant.
+
+
+
+4.11.2.2 Seite: H11: Boost Immune System Contra (PGID 6213304)
+
+Which comment is more relevant? Alice’s or Bob’s? (q_11327078 - Typ 111)
+v_249	v_249	int	Is Alice comment more relevant or Bob’s?
+		1	Alice‘s comment is more relevant than Bob’s.
+		2	Bob‘s comment is more relevant than Alice’s.
+		3	Both comments are equally relevant.
+
+
+Which comment is more relevant? Alice’s or Charlie’s? (q_11327079 - Typ 111)
+v_250	v_250	int	Is Alice comment more relevant or Charlie?
+		1	Alice‘s comment is more relevant than Charlie’s.
+		2	Charlie‘s comment is more relevant than Alice’s.
+		3	Both comments are equally relevant.
+
+
+Which comment is more relevant? Bob’s or Charlie’s? (q_11327081 - Typ 111)
+v_251	v_251	int	Is Bob’s comment more relevant or Charlie’s?
+		1	Bob‘s comment is more relevant than Charlie’s.
+		2	Charlie‘s comment is more relevant than Bob’s.
+		3	Both comments are equally relevant.
+
+
+
+4.11.3.1 Seite: H11: Solar Power Panels Pro (PGID 6213306)
+
+Which comment is more relevant? Alice’s or Bob’s? (q_11327084 - Typ 111)
+v_252	v_252	int	Is Alice comment more relevant or Bob’s?
+		1	Alice‘s comment is more relevant than Bob’s.
+		2	Bob‘s comment is more relevant than Alice’s.
+		3	Both comments are equally relevant.
+
+
+Which comment is more relevant? Alice’s or Charlie’s? (q_11327085 - Typ 111)
+v_253	v_253	int	Is Alice comment more relevant or Charlie?
+		1	Alice‘s comment is more relevant than Charlie’s.
+		2	Charlie‘s comment is more relevant than Alice’s.
+		3	Both comments are equally relevant.
+
+
+Which comment is more relevant? Bob’s or Charlie’s? (q_11327086 - Typ 111)
+v_254	v_254	int	Is Bob’s comment more relevant or Charlie’s?
+		1	Bob‘s comment is more relevant than Charlie’s.
+		2	Charlie‘s comment is more relevant than Bob’s.
+		3	Both comments are equally relevant.
+
+
+
+4.11.3.2 Seite: H11: Solar Power Panels Contra (PGID 6213315)
+
+Which comment is more relevant? Alice’s or Bob’s? (q_11327095 - Typ 111)
+v_255	v_255	int	Is Alice comment more relevant or Bob’s?
+		1	Alice‘s comment is more relevant than Bob’s.
+		2	Bob‘s comment is more relevant than Alice’s.
+		3	Both comments are equally relevant.
+
+
+Which comment is more relevant? Alice’s or Charlie’s? (q_11327096 - Typ 111)
+v_256	v_256	int	Is Alice comment more relevant or Charlie?
+		1	Alice‘s comment is more relevant than Charlie’s.
+		2	Charlie‘s comment is more relevant than Alice’s.
+		3	Both comments are equally relevant.
+
+
+Which comment is more relevant? Bob’s or Charlie’s? (q_11327097 - Typ 111)
+v_257	v_257	int	Is Bob’s comment more relevant or Charlie’s?
+		1	Bob‘s comment is more relevant than Charlie’s.
+		2	Charlie‘s comment is more relevant than Bob’s.
+		3	Both comments are equally relevant.
+
+
+
+4.12.1.1 Seite: H12: Chia Seeds Pro (PGID 6213319)
+
+Which comment is more relevant? Alice’s or Bob’s? (q_11327098 - Typ 111)
+v_258	v_258	int	Is Alice comment more relevant or Bob’s?
+		1	Alice‘s comment is more relevant than Bob’s.
+		2	Bob‘s comment is more relevant than Alice’s.
+		3	Both comments are equally relevant.
+
+
+Which comment is more relevant? Alice’s or Charlie’s? (q_11327099 - Typ 111)
+v_259	v_259	int	Is Alice comment more relevant or Charlie?
+		1	Alice‘s comment is more relevant than Charlie’s.
+		2	Charlie‘s comment is more relevant than Alice’s.
+		3	Both comments are equally relevant.
+
+
+Which comment is more relevant? Bob’s or Charlie’s? (q_11327100 - Typ 111)
+v_260	v_260	int	Is Bob’s comment more relevant or Charlie’s?
+		1	Bob‘s comment is more relevant than Charlie’s.
+		2	Charlie‘s comment is more relevant than Bob’s.
+		3	Both comments are equally relevant.
+
+
+
+4.12.1.2 Seite: H12: Chia Seeds Contra (PGID 6213326)
+
+Which comment is more relevant? Alice’s or Bob’s? (q_11327101 - Typ 111)
+v_261	v_261	int	Is Alice comment more relevant or Bob’s?
+		1	Alice‘s comment is more relevant than Bob’s.
+		2	Bob‘s comment is more relevant than Alice’s.
+		3	Both comments are equally relevant.
+
+
+Which comment is more relevant? Alice’s or Charlie’s? (q_11327102 - Typ 111)
+v_262	v_262	int	Is Alice comment more relevant or Charlie?
+		1	Alice‘s comment is more relevant than Charlie’s.
+		2	Charlie‘s comment is more relevant than Alice’s.
+		3	Both comments are equally relevant.
+
+
+Which comment is more relevant? Bob’s or Charlie’s? (q_11327103 - Typ 111)
+v_263	v_263	int	Is Bob’s comment more relevant or Charlie’s?
+		1	Bob‘s comment is more relevant than Charlie’s.
+		2	Charlie‘s comment is more relevant than Bob’s.
+		3	Both comments are equally relevant.
+
+
+
+4.12.2.1 Seite: H12: Boost Immune System Pro (PGID 6220501)
+
+Which comment is more relevant? Alice’s or Bob’s? (q_11327104 - Typ 111)
+v_264	v_264	int	Is Alice comment more relevant or Bob’s?
+		1	Alice‘s comment is more relevant than Bob’s.
+		2	Bob‘s comment is more relevant than Alice’s.
+		3	Both comments are equally relevant.
+
+
+Which comment is more relevant? Alice’s or Charlie’s? (q_11327105 - Typ 111)
+v_265	v_265	int	Is Alice comment more relevant or Charlie?
+		1	Alice‘s comment is more relevant than Charlie’s.
+		2	Charlie‘s comment is more relevant than Alice’s.
+		3	Both comments are equally relevant.
+
+
+Which comment is more relevant? Bob’s or Charlie’s? (q_11327106 - Typ 111)
+v_266	v_266	int	Is Bob’s comment more relevant or Charlie’s?
+		1	Bob‘s comment is more relevant than Charlie’s.
+		2	Charlie‘s comment is more relevant than Bob’s.
+		3	Both comments are equally relevant.
+
+
+
+4.12.2.2 Seite: H12: Boost Immune System Contra (PGID 6220504)
+
+Which comment is more relevant? Alice’s or Bob’s? (q_11327107 - Typ 111)
+v_267	v_267	int	Is Alice comment more relevant or Bob’s?
+		1	Alice‘s comment is more relevant than Bob’s.
+		2	Bob‘s comment is more relevant than Alice’s.
+		3	Both comments are equally relevant.
+
+
+Which comment is more relevant? Alice’s or Charlie’s? (q_11327108 - Typ 111)
+v_268	v_268	int	Is Alice comment more relevant or Charlie?
+		1	Alice‘s comment is more relevant than Charlie’s.
+		2	Charlie‘s comment is more relevant than Alice’s.
+		3	Both comments are equally relevant.
+
+
+Which comment is more relevant? Bob’s or Charlie’s? (q_11327109 - Typ 111)
+v_269	v_269	int	Is Bob’s comment more relevant or Charlie’s?
+		1	Bob‘s comment is more relevant than Charlie’s.
+		2	Charlie‘s comment is more relevant than Bob’s.
+		3	Both comments are equally relevant.
+
+
+
+4.12.3.1 Seite: H12: Solar Power Panels Pro (PGID 6220511)
+
+Which comment is more relevant? Alice’s or Bob’s? (q_11327110 - Typ 111)
+v_270	v_270	int	Is Alice comment more relevant or Bob’s?
+		1	Alice‘s comment is more relevant than Bob’s.
+		2	Bob‘s comment is more relevant than Alice’s.
+		3	Both comments are equally relevant.
+
+
+Which comment is more relevant? Alice’s or Charlie’s? (q_11327111 - Typ 111)
+v_271	v_271	int	Is Alice comment more relevant or Charlie?
+		1	Alice‘s comment is more relevant than Charlie’s.
+		2	Charlie‘s comment is more relevant than Alice’s.
+		3	Both comments are equally relevant.
+
+
+Which comment is more relevant? Bob’s or Charlie’s? (q_11327112 - Typ 111)
+v_272	v_272	int	Is Bob’s comment more relevant or Charlie’s?
+		1	Bob‘s comment is more relevant than Charlie’s.
+		2	Charlie‘s comment is more relevant than Bob’s.
+		3	Both comments are equally relevant.
+
+
+
+4.12.3.2 Seite: H12: Solar Power Panels Contra (PGID 6220522)
+
+Which comment is more relevant? Alice’s or Bob’s? (q_11327113 - Typ 111)
+v_273	v_273	int	Is Alice comment more relevant or Bob’s?
+		1	Alice‘s comment is more relevant than Bob’s.
+		2	Bob‘s comment is more relevant than Alice’s.
+		3	Both comments are equally relevant.
+
+
+Which comment is more relevant? Alice’s or Charlie’s? (q_11327114 - Typ 111)
+v_274	v_274	int	Is Alice comment more relevant or Charlie?
+		1	Alice‘s comment is more relevant than Charlie’s.
+		2	Charlie‘s comment is more relevant than Alice’s.
+		3	Both comments are equally relevant.
+
+
+Which comment is more relevant? Bob’s or Charlie’s? (q_11327115 - Typ 111)
+v_275	v_275	int	Is Bob’s comment more relevant or Charlie’s?
+		1	Bob‘s comment is more relevant than Charlie’s.
+		2	Charlie‘s comment is more relevant than Bob’s.
+		3	Both comments are equally relevant.
+
+
+
+4.13.1.1 Seite: H13: Chia Seeds Pro (PGID 6242610)
+
+Which comment is more relevant? Alice’s or Bob’s? (q_11364835 - Typ 111)
+v_301	v_301	int	Is Alice comment more relevant or Bob’s?
+		1	Alice‘s comment is more relevant than Bob’s.
+		2	Bob‘s comment is more relevant than Alice’s.
+		3	Both comments are equally relevant.
+
+
+Which comment is more relevant? Alice’s or Charlie’s? (q_11364837 - Typ 111)
+v_302	v_302	int	Is Alice comment more relevant or Charlie?
+		1	Alice‘s comment is more relevant than Charlie’s.
+		2	Charlie‘s comment is more relevant than Alice’s.
+		3	Both comments are equally relevant.
+
+
+Which comment is more relevant? Bob’s or Charlie’s? (q_11364838 - Typ 111)
+v_303	v_303	int	Is Bob’s comment more relevant or Charlie’s?
+		1	Bob‘s comment is more relevant than Charlie’s.
+		2	Charlie‘s comment is more relevant than Bob’s.
+		3	Both comments are equally relevant.
+
+
+
+4.13.1.2 Seite: H13: Chia Seeds Contra (PGID 6242611)
+
+Which comment is more relevant? Alice’s or Bob’s? (q_11364839 - Typ 111)
+v_304	v_304	int	Is Alice comment more relevant or Bob’s?
+		1	Alice‘s comment is more relevant than Bob’s.
+		2	Bob‘s comment is more relevant than Alice’s.
+		3	Both comments are equally relevant.
+
+
+Which comment is more relevant? Alice’s or Charlie’s? (q_11364840 - Typ 111)
+v_305	v_305	int	Is Alice comment more relevant or Charlie?
+		1	Alice‘s comment is more relevant than Charlie’s.
+		2	Charlie‘s comment is more relevant than Alice’s.
+		3	Both comments are equally relevant.
+
+
+Which comment is more relevant? Bob’s or Charlie’s? (q_11364841 - Typ 111)
+v_306	v_306	int	Is Bob’s comment more relevant or Charlie’s?
+		1	Bob‘s comment is more relevant than Charlie’s.
+		2	Charlie‘s comment is more relevant than Bob’s.
+		3	Both comments are equally relevant.
+
+
+
+4.13.2.1 Seite: H13: Boost Immune System Pro (PGID 6242612)
+
+Which comment is more relevant? Alice’s or Bob’s? (q_11364843 - Typ 111)
+v_307	v_307	int	Is Alice comment more relevant or Bob’s?
+		1	Alice‘s comment is more relevant than Bob’s.
+		2	Bob‘s comment is more relevant than Alice’s.
+		3	Both comments are equally relevant.
+
+
+Which comment is more relevant? Alice’s or Charlie’s? (q_11364844 - Typ 111)
+v_308	v_308	int	Is Alice comment more relevant or Charlie?
+		1	Alice‘s comment is more relevant than Charlie’s.
+		2	Charlie‘s comment is more relevant than Alice’s.
+		3	Both comments are equally relevant.
+
+
+Which comment is more relevant? Bob’s or Charlie’s? (q_11364846 - Typ 111)
+v_309	v_309	int	Is Bob’s comment more relevant or Charlie’s?
+		1	Bob‘s comment is more relevant than Charlie’s.
+		2	Charlie‘s comment is more relevant than Bob’s.
+		3	Both comments are equally relevant.
+
+
+
+4.13.2.2 Seite: H13: Boost Immune System Contra (PGID 6242613)
+
+Which comment is more relevant? Alice’s or Bob’s? (q_11364847 - Typ 111)
+v_310	v_310	int	Is Alice comment more relevant or Bob’s?
+		1	Alice‘s comment is more relevant than Bob’s.
+		2	Bob‘s comment is more relevant than Alice’s.
+		3	Both comments are equally relevant.
+
+
+Which comment is more relevant? Alice’s or Charlie’s? (q_11364850 - Typ 111)
+v_311	v_311	int	Is Alice comment more relevant or Charlie?
+		1	Alice‘s comment is more relevant than Charlie’s.
+		2	Charlie‘s comment is more relevant than Alice’s.
+		3	Both comments are equally relevant.
+
+
+Which comment is more relevant? Bob’s or Charlie’s? (q_11364852 - Typ 111)
+v_312	v_312	int	Is Bob’s comment more relevant or Charlie’s?
+		1	Bob‘s comment is more relevant than Charlie’s.
+		2	Charlie‘s comment is more relevant than Bob’s.
+		3	Both comments are equally relevant.
+
+
+
+4.13.3.1 Seite: H13: Solar Power Panels Pro (PGID 6242614)
+
+Which comment is more relevant? Alice’s or Bob’s? (q_11364854 - Typ 111)
+v_313	v_313	int	Is Alice comment more relevant or Bob’s?
+		1	Alice‘s comment is more relevant than Bob’s.
+		2	Bob‘s comment is more relevant than Alice’s.
+		3	Both comments are equally relevant.
+
+
+Which comment is more relevant? Alice’s or Charlie’s? (q_11364856 - Typ 111)
+v_314	v_314	int	Is Alice comment more relevant or Charlie?
+		1	Alice‘s comment is more relevant than Charlie’s.
+		2	Charlie‘s comment is more relevant than Alice’s.
+		3	Both comments are equally relevant.
+
+
+Which comment is more relevant? Bob’s or Charlie’s? (q_11364857 - Typ 111)
+v_315	v_315	int	Is Bob’s comment more relevant or Charlie’s?
+		1	Bob‘s comment is more relevant than Charlie’s.
+		2	Charlie‘s comment is more relevant than Bob’s.
+		3	Both comments are equally relevant.
+
+
+
+4.13.3.2 Seite: H13: Solar Power Panels Contra (PGID 6242615)
+
+Which comment is more relevant? Alice’s or Bob’s? (q_11364859 - Typ 111)
+v_316	v_316	int	Is Alice comment more relevant or Bob’s?
+		1	Alice‘s comment is more relevant than Bob’s.
+		2	Bob‘s comment is more relevant than Alice’s.
+		3	Both comments are equally relevant.
+
+
+Which comment is more relevant? Alice’s or Charlie’s? (q_11364860 - Typ 111)
+v_317	v_317	int	Is Alice comment more relevant or Charlie?
+		1	Alice‘s comment is more relevant than Charlie’s.
+		2	Charlie‘s comment is more relevant than Alice’s.
+		3	Both comments are equally relevant.
+
+
+Which comment is more relevant? Bob’s or Charlie’s? (q_11364862 - Typ 111)
+v_318	v_318	int	Is Bob’s comment more relevant or Charlie’s?
+		1	Bob‘s comment is more relevant than Charlie’s.
+		2	Charlie‘s comment is more relevant than Bob’s.
+		3	Both comments are equally relevant.
+
+
+
+4.14.1.1 Seite: H14: Chia Seeds Pro (PGID 6301855)
+
+Which comment is more relevant? Alice’s or Bob’s? (q_11477226 - Typ 111)
+v_411	v_411	int	Is Alice comment more relevant or Bob’s?
+		1	Alice‘s comment is more relevant than Bob’s.
+		2	Bob‘s comment is more relevant than Alice’s.
+		3	Both comments are equally relevant.
+
+
+Which comment is more relevant? Alice’s or Charlie’s? (q_11477227 - Typ 111)
+v_412	v_412	int	Is Alice comment more relevant or Charlie?
+		1	Alice‘s comment is more relevant than Charlie’s.
+		2	Charlie‘s comment is more relevant than Alice’s.
+		3	Both comments are equally relevant.
+
+
+Which comment is more relevant? Bob’s or Charlie’s? (q_11477229 - Typ 111)
+v_414	v_414	int	Is Bob’s comment more relevant or Charlie’s?
+		1	Bob‘s comment is more relevant than Charlie’s.
+		2	Charlie‘s comment is more relevant than Bob’s.
+		3	Both comments are equally relevant.
+
+
+
+4.14.1.2 Seite: H14: Chia Seeds Contra (PGID 6301856)
+
+Which comment is more relevant? Alice’s or Bob’s? (q_11477233 - Typ 111)
+v_417	v_417	int	Is Alice comment more relevant or Bob’s?
+		1	Alice‘s comment is more relevant than Bob’s.
+		2	Bob‘s comment is more relevant than Alice’s.
+		3	Both comments are equally relevant.
+
+
+Which comment is more relevant? Alice’s or Charlie’s? (q_11477234 - Typ 111)
+v_418	v_418	int	Is Alice comment more relevant or Charlie?
+		1	Alice‘s comment is more relevant than Charlie’s.
+		2	Charlie‘s comment is more relevant than Alice’s.
+		3	Both comments are equally relevant.
+
+
+Which comment is more relevant? Bob’s or Charlie’s? (q_11477235 - Typ 111)
+v_419	v_419	int	Is Bob’s comment more relevant or Charlie’s?
+		1	Bob‘s comment is more relevant than Charlie’s.
+		2	Charlie‘s comment is more relevant than Bob’s.
+		3	Both comments are equally relevant.
+
+
+
+4.14.2.1 Seite: H14: Boost Immune System Pro (PGID 6301858)
+
+Which comment is more relevant? Alice’s or Bob’s? (q_11477240 - Typ 111)
+v_423	v_423	int	Is Alice comment more relevant or Bob’s?
+		1	Alice‘s comment is more relevant than Bob’s.
+		2	Bob‘s comment is more relevant than Alice’s.
+		3	Both comments are equally relevant.
+
+
+Which comment is more relevant? Alice’s or Charlie’s? (q_11477241 - Typ 111)
+v_424	v_424	int	Is Alice comment more relevant or Charlie?
+		1	Alice‘s comment is more relevant than Charlie’s.
+		2	Charlie‘s comment is more relevant than Alice’s.
+		3	Both comments are equally relevant.
+
+
+Which comment is more relevant? Bob’s or Charlie’s? (q_11477243 - Typ 111)
+v_426	v_426	int	Is Bob’s comment more relevant or Charlie’s?
+		1	Bob‘s comment is more relevant than Charlie’s.
+		2	Charlie‘s comment is more relevant than Bob’s.
+		3	Both comments are equally relevant.
+
+
+
+4.14.2.2 Seite: H14: Boost Immune System Contra (PGID 6301859)
+
+Which comment is more relevant? Alice’s or Bob’s? (q_11477247 - Typ 111)
+v_429	v_429	int	Is Alice comment more relevant or Bob’s?
+		1	Alice‘s comment is more relevant than Bob’s.
+		2	Bob‘s comment is more relevant than Alice’s.
+		3	Both comments are equally relevant.
+
+
+Which comment is more relevant? Alice’s or Charlie’s? (q_11477248 - Typ 111)
+v_430	v_430	int	Is Alice comment more relevant or Charlie?
+		1	Alice‘s comment is more relevant than Charlie’s.
+		2	Charlie‘s comment is more relevant than Alice’s.
+		3	Both comments are equally relevant.
+
+
+Which comment is more relevant? Bob’s or Charlie’s? (q_11477250 - Typ 111)
+v_432	v_432	int	Is Bob’s comment more relevant or Charlie’s?
+		1	Bob‘s comment is more relevant than Charlie’s.
+		2	Charlie‘s comment is more relevant than Bob’s.
+		3	Both comments are equally relevant.
+
+
+
+4.14.3.1 Seite: H14: Solar Power Panels Pro (PGID 6301861)
+
+Which comment is more relevant? Alice’s or Bob’s? (q_11477254 - Typ 111)
+v_435	v_435	int	Is Alice comment more relevant or Bob’s?
+		1	Alice‘s comment is more relevant than Bob’s.
+		2	Bob‘s comment is more relevant than Alice’s.
+		3	Both comments are equally relevant.
+
+
+Which comment is more relevant? Alice’s or Charlie’s? (q_11477255 - Typ 111)
+v_436	v_436	int	Is Alice comment more relevant or Charlie?
+		1	Alice‘s comment is more relevant than Charlie’s.
+		2	Charlie‘s comment is more relevant than Alice’s.
+		3	Both comments are equally relevant.
+
+
+Which comment is more relevant? Bob’s or Charlie’s? (q_11477257 - Typ 111)
+v_438	v_438	int	Is Bob’s comment more relevant or Charlie’s?
+		1	Bob‘s comment is more relevant than Charlie’s.
+		2	Charlie‘s comment is more relevant than Bob’s.
+		3	Both comments are equally relevant.
+
+
+
+4.14.3.2 Seite: H14: Solar Power Panels Contra (PGID 6301862)
+
+Which comment is more relevant? Alice’s or Bob’s? (q_11477261 - Typ 111)
+v_441	v_441	int	Is Alice comment more relevant or Bob’s?
+		1	Alice‘s comment is more relevant than Bob’s.
+		2	Bob‘s comment is more relevant than Alice’s.
+		3	Both comments are equally relevant.
+
+
+Which comment is more relevant? Alice’s or Charlie’s? (q_11477262 - Typ 111)
+v_442	v_442	int	Is Alice comment more relevant or Charlie?
+		1	Alice‘s comment is more relevant than Charlie’s.
+		2	Charlie‘s comment is more relevant than Alice’s.
+		3	Both comments are equally relevant.
+
+
+Which comment is more relevant? Bob’s or Charlie’s? (q_11477264 - Typ 111)
+v_444	v_444	int	Is Bob’s comment more relevant or Charlie’s?
+		1	Bob‘s comment is more relevant than Charlie’s.
+		2	Charlie‘s comment is more relevant than Bob’s.
+		3	Both comments are equally relevant.
+
+
+
+5 Seite: Control Question 1 (PGID 6249046)
+
+Which statement do you agree with? (q_11379074 - Typ 111)
+v_392	v_392	int	Which statement do you agree with?
+		1	Alice wants wind turbines to be banned.
+		2	Bob wants wind turbines to be banned
+		3	Alice and Bob have the same opinion about wind power plants.
+
+
+Which statement do you agree with? (q_11379076 - Typ 111)
+v_393	v_393	int	Which statement do you agree with?
+		1	Alice argues that wind power plants makes a lot of noise.
+		2	Bob argues that wind power plants kill a lot of birds.
+		3	Alice and Bob have the same opinion about wind power plants.
+
+
+Which statement do you agree with? (q_11379233 - Typ 111)
+v_394	v_394	int	Which statement do you agree with?
+		1	Alice argues that wind power plants are unreliable.
+		2	Bob argues that wind power plants make them independent of fossil fuels and foreign powers.
+		3	Alice and Bob have the same opinion about wind power plants.
+
+
+
+6 Seite: Control Question 2 (PGID 6313695)
+
+Which statement do you agree with? (q_11497316 - Typ 111)
+v_447	v_447	int	Which statement do you agree with?
+		1	Alice says that more people should have a dog.
+		2	Bob says that dogs are dangerous.
+		3	Alice and Bob have the same opinion about dogs.
+
+
+Which statement do you agree with? (q_11497317 - Typ 111)
+v_448	v_448	int	Which statement do you agree with?
+		1	Alice argues that dogs help to be more active.
+		2	Bob argues that dogs make a lot of mess.
+		3	Alice and Bob have the same opinion about dogs.
+
+
+Which statement do you agree with? (q_11497318 - Typ 111)
+v_449	v_449	int	Which statement do you agree with?
+		1	Alice argues that dogs protect the house for you.
+		2	Bob argues that dogs are a big responsibility.
+		3	Alice and Bob have the same opinion about dogs.
+
+
+
+7 Seite: Demographic Questions (PGID 6189726)
+
+What gender are you? (q_11271935 - Typ 111)
+v_1	v_1	int	Gender
+		1	Male
+		2	Female
+		3	Diverse
+		4	Different
+		5	Not specified
+
+
+How old are you? (q_11271947 - Typ 111)
+v_2	v_2	int	Age
+		1	
+		2	20-29
+		3	30-39
+		4	40-49
+		5	50-59
+		6	60-69
+		7	>69
+
+
+What is the highest educational qualification you have? (q_11271951 - Typ 111)
+v_3	v_3	int	Education
+		1	No degree
+		2	High-School
+		3	College Degree
+		4	Graduate Degree
+		5	No specification
+
+
