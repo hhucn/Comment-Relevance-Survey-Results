@@ -104,7 +104,12 @@ def create_hypotheses(hypotheses_pages: List[HypothesisPage]) -> dict[str, Hypot
             if hypotheses.get(page.get_hypothesis_id()) is None:
                 hypotheses[page.get_hypothesis_id()] = Hypothesis(page.get_hypothesis_id())
             hypotheses.get(page.get_hypothesis_id()).add_questions(page.get_questions())
+            if page.is_neutral_topic():
+                hypotheses.get(page.get_hypothesis_id()).add_neutral_questions(page.get_questions())
+            else:
+                hypotheses.get(page.get_hypothesis_id()).add_controversial_questions(page.get_questions())
     return hypotheses
+
 
 def print_gender(question: Question) -> None:
     if question.get_question_id() == "v_1":
@@ -119,6 +124,7 @@ def print_gender(question: Question) -> None:
                 print(f"Different: {answer.get_frequency()}")
             elif answer.get_answer_value() == 5:
                 print(f"Not Specified: {answer.get_frequency()}")
+
 
 def print_age(question: Question) -> None:
     if question.get_question_id() == "v_2":
@@ -164,3 +170,21 @@ def print_demographic(hypotheses_pages: List[HypothesisPage], type: str) -> None
                     print_age(question)
                 elif type == "education":
                     print_education(question)
+
+
+def calc_average_expected_answer_neutral_topic(hypotheses: dict[Hypothesis]) -> float:
+    percentage = []
+    for hypotheses_key in hypotheses.keys():
+        for question in hypotheses[hypotheses_key].get_neutral_questions():
+            percentage.append(question.percentage_with_expected_answer())
+
+    return sum(percentage) / len(percentage)
+
+
+def calc_average_expected_answer_controversial_topic(hypotheses: dict[Hypothesis]) -> float:
+    percentage = []
+    for hypotheses_key in hypotheses.keys():
+        for question in hypotheses[hypotheses_key].get_controversial_questions():
+            percentage.append(question.percentage_with_expected_answer())
+
+    return sum(percentage) / len(percentage)
