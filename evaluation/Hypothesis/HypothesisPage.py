@@ -29,3 +29,9 @@ class HypothesisPage:
 
     def get_hypothesis_pgid(self) -> int:
         return self._pgid
+
+    def is_neutral_topic(self):
+        if "Solar" in self._hypothesis_text or "Football" in self._hypothesis_text:
+            return False
+        return True
+

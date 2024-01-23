@@ -29,6 +29,8 @@ class Hypothesis:
     def __init__(self, hypothesis_id: str):
         self._hypothesis_id = hypothesis_id
         self._questions = []
+        self._neutral_questions = []
+        self._controversial_questions = []
 
     def add_questions(self, given_questions: List[Question]):
         for gq in given_questions:
@@ -38,6 +40,34 @@ class Hypothesis:
                 if q.get_question_text() == gq.get_question_text():
                     q.aggregate_answers(gq.get_answers())
 
+    def add_neutral_questions(self, given_questions: List[Question]):
+        for gq in given_questions:
+            if self.is_new_neutral_question(gq):
+                self.add_neutral_question(Question(None, gq.get_question_text()))
+            for q in self.get_neutral_questions():
+                if q.get_question_text() == gq.get_question_text():
+                    q.aggregate_answers(gq.get_answers())
+
+    def add_controversial_questions(self, given_questions: List[Question]):
+        for gq in given_questions:
+            if self.is_new_controversial_question(gq):
+                self.add_controversial_question(Question(None, gq.get_question_text()))
+            for q in self.get_controversial_questions():
+                if q.get_question_text() == gq.get_question_text():
+                    q.aggregate_answers(gq.get_answers())
+
+    def get_neutral_questions(self):
+        return self._neutral_questions
+
+    def get_controversial_questions(self):
+        return self._controversial_questions
+
+    def add_controversial_question(self, given_question: Question) -> None:
+        self._controversial_questions.append(given_question)
+
+    def add_neutral_question(self, given_question: Question) -> None:
+        self._neutral_questions.append(given_question)
+
     def add_question(self, given_question: Question) -> None:
         self._questions.append(given_question)
 
@@ -46,6 +76,14 @@ class Hypothesis:
 
     def is_new_question(self, given_question: Question) -> bool:
         return given_question.get_question_text() not in set([q.get_question_text() for q in self.get_questions()])
+
+    def is_new_neutral_question(self, given_question: Question) -> bool:
+        return given_question.get_question_text() not in set(
+            [q.get_question_text() for q in self.get_neutral_questions()])
+
+    def is_new_controversial_question(self, given_question: Question) -> bool:
+        return given_question.get_question_text() not in set(
+            [q.get_question_text() for q in self.get_controversial_questions()])
 
     def get_hypothesis_id(self):
         return self._hypothesis_id
@@ -79,6 +117,15 @@ class Hypothesis:
                       f"{self.confidence_interval(a.get_frequency(), 0.05)[1]:.2f})," \
                       f"p={question.p_value(a.get_frequency()):.3f})")
             print("\n")
+
+        print("Neutral vs. Controversial Topic")
+        neutral_questions = self.get_neutral_questions()
+        controversial_questions = self.get_controversial_questions()
+        for i in range(len(self.get_controversial_questions())):
+
+            print(f"Question: {neutral_questions[i].get_question_text()}")
+            print(f"Expected Answer for neutral question given by: {100 * neutral_questions[i].percentage_with_expected_answer():2f}%")
+            print(f"Expected Answer for controversial question given by: {100 * controversial_questions[i].percentage_with_expected_answer():2f}%\n")
 
     def percentage_with_expected_answer(self) -> ndarray:
         return np.nanmean([q.percentage_with_expected_answer() for q in self._questions])
